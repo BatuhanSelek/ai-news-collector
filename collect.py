@@ -10,6 +10,7 @@ import datetime as dt
 import json
 import os
 import re
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -54,6 +55,26 @@ def http_get(url, headers=None, timeout=25):
 
 def http_json(url, headers=None):
     return json.loads(http_get(url, headers))
+
+
+def http_get_retry(url, tries=3, base_wait=20):
+    """429 (Too Many Requests) gelirse bekleyip yeniden dener."""
+    for attempt in range(1, tries + 1):
+        try:
+            return http_get(url)
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < tries:
+                time.sleep(base_wait * attempt)
+                continue
+            raise
+
+
+TR_CHARS = re.compile(r"[ğüşıöçĞÜŞİÖÇ]")
+AI_RELEVANT = re.compile(
+    r"claude|anthropic|openai|chatgpt|gpt|llm|mcp|agent|gemini|codex|copilot|cursor|n8n|"
+    r"\bai\b|artificial intelligence|machine learning|vibe cod|prompt|model",
+    re.I,
+)
 
 
 def clean(text, n=300):
@@ -119,6 +140,13 @@ def collect_youtube():
             continue
         for v in data.get("items", []):
             sn, st = v["snippet"], v.get("statistics", {})
+            # Dil tespiti: Türkçe sorguyla gelen videoyu sadece gerçekten Türkçe ise TR say
+            audio = (sn.get("defaultAudioLanguage") or sn.get("defaultLanguage") or "").lower()
+            looks_tr = audio.startswith("tr") or bool(TR_CHARS.search(sn.get("title", "") + sn.get("description", "")[:200]))
+            if seen[v["id"]]["lang"] == "tr" and not looks_tr:
+                continue  # Türkçe aramada gelen ama Türkçe olmayan videoyu at
+            if seen[v["id"]]["lang"] == "en" and audio and not audio.startswith("en") and not audio.startswith("tr"):
+                continue  # İngilizce aramada gelen Tayca vb. videoları at
             videos.append({
                 "id": v["id"],
                 "url": f"https://www.youtube.com/watch?v={v['id']}",
@@ -146,11 +174,13 @@ def collect_reddit():
     for sub in SUBREDDITS:
         url = f"https://www.reddit.com/r/{sub}/top/.rss?t=day&limit=10"
         try:
-            root = ET.fromstring(http_get(url))
+            root = ET.fromstring(http_get_retry(url))
         except Exception as e:
             errors.append(f"Reddit r/{sub} çekilemedi: {e}")
+            time.sleep(6)
             continue
         ok += 1
+        time.sleep(6)  # Reddit'in hız sınırına takılmamak için istekler arası bekleme
         for entry in root.findall("a:entry", ATOM)[:8]:
             link = entry.find("a:link", ATOM)
             content = entry.findtext("a:content", default="", namespaces=ATOM)
@@ -212,6 +242,8 @@ def collect_hn():
         for h in data.get("hits", []):
             if h["objectID"] in seen:
                 continue
+            if not AI_RELEVANT.search(h.get("title", "")):
+                continue  # AI ile ilgisiz başlıkları ele
             seen.add(h["objectID"])
             result["hackernews"].append({
                 "title": h.get("title", ""),
