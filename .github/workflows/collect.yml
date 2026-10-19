@@ -1,0 +1,36 @@
+name: collect-ai-news
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 03:30 UTC = 06:30 İstanbul, sabah bülteninden önce
+  workflow_dispatch:        # Actions sekmesinden elle çalıştırmak için
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bağımlılık (opsiyonel transkript kütüphanesi)
+        run: pip install youtube-transcript-api || true
+
+      - name: Veriyi topla
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python collect.py
+
+      - name: Sonucu depoya yaz
+        run: |
+          git config user.name "ai-news-bot"
+          git config user.email "ai-news-bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Günlük veri güncellemesi"
+          git push
