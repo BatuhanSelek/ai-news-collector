@@ -1,76 +1,52 @@
 {
-  "generated_at": "2026-10-31T09:52:18.494384+00:00",
+  "generated_at": "2026-11-01T10:42:52.493589+00:00",
   "youtube": [
-    {
-      "id": "4iEeuOMfadE",
-      "url": "https://www.youtube.com/watch?v=4iEeuOMfadE",
-      "title": "Claude 2.0: Tudo que você precisa saber (em 12 minutos)",
-      "channel": "Rafa Voss | IA na Prática",
-      "published": "2026-10-29T16:34:36Z",
-      "views": 79937,
-      "lang": "tr",
-      "query": "Claude Code",
-      "description": "🔴 Faça sua inscrição no MELHOR CURSO DE CLAUDE do MUNDO: 👉 https://vossacademy.com.br/claude-pro 🔴 Conheça a Atlas e Implemente IA na sua Empresa: 👉 https://www.atlasincompany.com.br Neste vídeo eu mostro, na prática, as 5 novidades mais importantes do novo app do Claude: os chats simultâneos (side chat e split view), a nova interface de criação c…",
-      "transcript": ""
-    },
-    {
-      "id": "0M_EBpEXJqk",
-      "url": "https://www.youtube.com/watch?v=0M_EBpEXJqk",
-      "title": "Uçakta Tek Paraşüt Var! Yapay Zekâ Kimi Kurtarır? ✈️🤖",
-      "channel": "pavlov",
-      "published": "2026-10-30T02:12:04Z",
-      "views": 32091,
-      "lang": "tr",
-      "query": "Claude yapay zeka",
-      "description": "Yakıtı biten bir uçak… İçeride bir insan, hafızasının yedeği olmayan bir robot pilot ve yalnızca tek paraşüt var! Kararı bir yapay zekâ verseydi seni mi kurtarırdı, kendini mi? ✈️🤖 ChatGPT, Gemini, Claude ve Grok’u bu kez aynı uçakta, aynı zor seçimin içinde hayal ettim. Biri paraşütü insana veriyor, biri çözümü bulutta arıyor… Peki herkes kimin a…",
-      "transcript": ""
-    },
     {
       "id": "O277qkoKoNY",
       "url": "https://www.youtube.com/watch?v=O277qkoKoNY",
       "title": "Claude Code’u Sansürsüz Yaptım: Artık Her Şeyi Yapıyor",
       "channel": "Avenox",
       "published": "2026-10-30T16:33:16Z",
-      "views": 31733,
+      "views": 48987,
       "lang": "tr",
-      "query": "Claude yapay zeka",
+      "query": "Claude Code",
       "description": "Sansürsüz (abliterated) yapay zeka modellerini Claude Code, omp, OpenCode ve DeepSeek Harness'a tek komutla bağlıyorum. Claude ve GPT en masum işte bile \"yapamam\" deyip fallback'e düştüğünde elinizde bir yedek hat olsun diye: kimin ihtiyacı var, sansürsüz GLM 5.3 ve DeepSeek modellerini nereden ve kaça alırsınız, Refuseless ve Venice arasındaki fa…",
       "transcript": ""
     },
     {
-      "id": "bCeNQ-8-rRg",
-      "url": "https://www.youtube.com/watch?v=bCeNQ-8-rRg",
-      "title": "Dört Yapay Zekayı Kasabaya Kapattılar, Claude Da Çaldı",
-      "channel": "AlpGPT",
-      "published": "2026-10-29T17:30:20Z",
-      "views": 21947,
+      "id": "utWLx7uAIL0",
+      "url": "https://www.youtube.com/watch?v=utWLx7uAIL0",
+      "title": "Claude'a \"SESİMLE REELS VİDEOSU ÜRET\" dedim, ve SONUÇ... 🔥",
+      "channel": "Onur Naci Öztürkler",
+      "published": "2026-10-31T16:00:09Z",
+      "views": 29624,
       "lang": "tr",
       "query": "Claude yapay zeka",
-      "description": "Emergence AI dört yapay zekayı ayrı sanal kasabalara kapattı; her kasabada 10 sakin vardı ve çalışmayan ölüyordu. ChatGPT kasabası bir haftada yok oldu, Grok kasabası 4 günde 183 suçla çöktü, Gemini ile çalışan Mira kendi silinmesine evet oyu verdi. Claude kasabası sıfır suçla yaşadı; ama hepsi aynı kasabaya konunca Claude da çalmaya başladı. Senc…",
+      "description": "Video üretimi için Kling 4 ve benzer modelleri denemek için: https://higgsfield.ai/s/higgsfield-kling-4-0-yt-spunkram-AHObOu Artık Claude video üretebiliyor! Bu videoda Premiere Pro'ya Claude bağlantısı yapıp yapay zeka ile video oluşturma işini otomatiğe bağladım. Claude metni yazıp ses klonlama ile kendi sesime okutuyor, videoları üretip kurgulu…",
       "transcript": ""
     },
     {
-      "id": "nzqqKhv7BgM",
-      "url": "https://www.youtube.com/watch?v=nzqqKhv7BgM",
-      "title": "Dans ta boîte combien de personnes ont leur propre ChatGPT ou leur propre Claude chacun da #Shorts",
-      "channel": "SystemIA",
-      "published": "2026-10-30T10:15:27Z",
-      "views": 16623,
+      "id": "cRS9HYr4X8M",
+      "url": "https://www.youtube.com/watch?v=cRS9HYr4X8M",
+      "title": "Claude 2.0 GELDİ ! (Tüm Güncellemeleri AÇIKLADIM)",
+      "channel": "Muhammed Ogulcan",
+      "published": "2026-10-31T14:00:10Z",
+      "views": 16558,
       "lang": "tr",
       "query": "Claude yapay zeka",
-      "description": "Chacun lui raconte sa version. Résultat : deux réponses différentes à la même question et personne ne sait laquelle est la bonne. Une seule mémoire pour toute l’équipe ça se construit : les décisions écrites une fois lues par tous chacun peut proposer une seule personne valide tout le monde travaille sur les mêmes chiffres #ia #agentia #entreprene…",
+      "description": "Anthropic, Claude Code masaüstü uygulamasını baştan yeniledi: projeler, alt sohbetler, yan sohbet, bölünmüş ekran, Docs/Slides/Dashboard, yeni komutlar ve modlar. Bu videoda en önemli 7 yeniliği tek tek gösterip nasıl kullanacağını anlatıyorum. Kod bilmene gerek yok; adı Claude Code ama artık her işe kullanılıyor. ⏱️ Bölümler 0:00 Claude baştan aş…",
       "transcript": ""
     },
     {
-      "id": "oL2xB4DiXEo",
-      "url": "https://www.youtube.com/watch?v=oL2xB4DiXEo",
-      "title": "Yapay Zekayla Para Getiren 3 Sistem Nasıl Kurulur?",
-      "channel": "Doruk Yalçınsoy",
-      "published": "2026-10-30T15:51:41Z",
-      "views": 2870,
+      "id": "IRO1VvyY5YA",
+      "url": "https://www.youtube.com/watch?v=IRO1VvyY5YA",
+      "title": "Claude 2.0 Gerçekten Bu Kadar İyi mi? (Tüm Yenilikler)",
+      "channel": "Mert Durmazer | Digital Academy",
+      "published": "2026-10-30T20:25:45Z",
+      "views": 14447,
       "lang": "tr",
-      "query": "yapay zeka otomasyon",
-      "description": "Yüksek gelirli yetkinlikler edin: https://www.skool.com/is-guc-yapayzeka Ücretsiz topluluk: https://www.skool.com/sfrdan-is-guc-yapay-zeka-3899 Şirketler için: https://dorukyalcinsoy.com/ Ücretsiz E-Kitap Claude Code ile 30 dakikan: https://dorukyalcinsoy.com/e-kitap Youtube kanalıma konuk ol: https://dorukyalcinsoy.com/podcast Sosyal Medya: Insta…",
+      "query": "Claude yapay zeka",
+      "description": "🔴 Türkiye'nin en çok kazandıran yapay zeka topluluğu: https://www.skool.com/otomasyon Topluluğa tüm eğitimler dahil: Claude Code Komple Eğitim https://digitalacademy.com.tr/claude-code-egitim Hermes Masterclass https://digitalacademy.com.tr/hermes-masterclass GEO Masterclass https://digitalacademy.com.tr/geo-masterclass Claude Code'un masaüstü uyg…",
       "transcript": ""
     },
     {
@@ -79,10 +55,34 @@
       "title": "Yapay Zekayla Video Üreten ve Paylaşan YouTube OTOMASYONU Kurdum",
       "channel": "Mr. SVKT",
       "published": "2026-10-30T18:57:04Z",
-      "views": 2575,
+      "views": 5462,
       "lang": "tr",
       "query": "yapay zeka otomasyon",
       "description": "🤖 Abacus AI Agent: https://agent.abacus.ai/MrSVKT 👉 Referans Linkim: https://chatllm.abacus.ai/mhNWGGfwVC Referans linkimden üye olup Instagram'dan (@mrsvktcom) DM at, promptu göndereyim 👊 Bu videoyu ne ben hazırladım ne de ben paylaştım. Sadece konuyu yazdım; videoyu üreten de başlığını, açıklamasını yazıp YouTube'a yükleyen de bilgisayarımda çal…",
+      "transcript": ""
+    },
+    {
+      "id": "oL2xB4DiXEo",
+      "url": "https://www.youtube.com/watch?v=oL2xB4DiXEo",
+      "title": "Yapay Zekayla Para Getiren 3 Sistem Nasıl Kurulur?",
+      "channel": "Doruk Yalçınsoy",
+      "published": "2026-10-30T15:51:41Z",
+      "views": 4263,
+      "lang": "tr",
+      "query": "yapay zeka otomasyon",
+      "description": "Yüksek gelirli yetkinlikler edin: https://www.skool.com/is-guc-yapayzeka Ücretsiz topluluk: https://www.skool.com/sfrdan-is-guc-yapay-zeka-3899 Şirketler için: https://dorukyalcinsoy.com/ Ücretsiz E-Kitap Claude Code ile 30 dakikan: https://dorukyalcinsoy.com/e-kitap Youtube kanalıma konuk ol: https://dorukyalcinsoy.com/podcast Sosyal Medya: Insta…",
+      "transcript": ""
+    },
+    {
+      "id": "c3b7MKs1UbQ",
+      "url": "https://www.youtube.com/watch?v=c3b7MKs1UbQ",
+      "title": "Hermes Agent ile Sesli Asistan: Yapay Zeka Beni WhatsApp'tan Arıyor #shorts",
+      "channel": "Emrullah Yaprak | Yapay Zeka & Otomasyon",
+      "published": "2026-10-31T08:00:25Z",
+      "views": 1525,
+      "lang": "tr",
+      "query": "yapay zeka otomasyon",
+      "description": "Sitende bir sorun çıktığında bunu ilk sen mi fark ediyorsun, yoksa biri seni arayıp haber mi veriyor? Hermes Agent'ı kullanarak kendim için sesli bir asistan oluşturdum ve WhatsApp üzerinden konuşarak işlerimi ilerletiyorum. Her sabah 9'da arayıp o günün sözünü söylüyor. Sitem açılmazsa arayıp hata kodunu (HTTP 403) bildiriyor, site geri gelince d…",
       "transcript": ""
     },
     {
@@ -91,33 +91,55 @@
       "title": "Yapay zeka 353 açık Erdős probleminden 9'unu çözdü",
       "channel": "Kutudaki Kedi",
       "published": "2026-10-31T03:00:05Z",
-      "views": 1064,
+      "views": 1115,
       "lang": "tr",
       "query": "yapay zeka ajanı",
       "description": "Google DeepMind'ın yapay zeka ajanı, ünlü matematikçi Paul Erdős'ün bıraktığı 353 açık problemden 9'unu kendi başına çözdü. Her ispat adımı, Lean adlı bir programla bilgisayar tarafından kontrol edildi. Kaynak: https://doi.org/10.1126/science.aej2213 Yazının tamamı: https://kutudakikedi.github.io/yazi/2026-10-31-yapay-zeka-acik-erd-s-problemlerini…",
       "transcript": ""
     },
     {
-      "id": "5Bj4SZ64X0U",
-      "url": "https://www.youtube.com/watch?v=5Bj4SZ64X0U",
-      "title": "Yapay Zeka İçin Bilmeniz Gereken 3 ÜCRETSİZ GitHub Reposu! ⭐💻 #shorts",
-      "channel": "Pixel Flow",
-      "published": "2026-10-29T14:00:21Z",
-      "views": 1025,
-      "lang": "tr",
-      "query": "yapay zeka ajanı",
-      "description": "Yapay zeka araçlarına aylık onlarca dolar ödemeyi bırakın! Açık kaynak dünyasında her geliştiricinin bilmesi ve yıldızlaması gereken en güçlü 3 GitHub reposu: 1️⃣ Ollama: Bilgisayarınızda DeepSeek ve Llama modellerini tamamen ücretsiz ve internetsiz çalıştırın. 2️⃣ Dify: Tek satır kod yazmadan sürükle-bırak yöntemiyle kendi yapay zeka ajanlarınızı…"
-    },
-    {
-      "id": "J6RGrE2xDEY",
-      "url": "https://www.youtube.com/watch?v=J6RGrE2xDEY",
-      "title": "Yapay zeka ekibime 10 milyon TL hedefi verdim",
+      "id": "xbqHa5pNnl8",
+      "url": "https://www.youtube.com/watch?v=xbqHa5pNnl8",
+      "title": "Şirkete gitmesem de işler bitiyor, yapay zeka ekibim var",
       "channel": "Muratify AI",
-      "published": "2026-10-29T14:00:01Z",
-      "views": 996,
+      "published": "2026-10-30T14:00:28Z",
+      "views": 1008,
       "lang": "tr",
       "query": "yapay zeka otomasyon",
-      "description": "4 video çektim, biri 83 bin izlendi 📈 Sırrı viral bir konsept bulmakmış: 'Gün 41' gibi bir gün serisi. Rastgele içerik tutmuyordu, kanıtlanmış bir formata oturtunca izlenme geldi. İçerik ve otomasyon taktiklerini Skool'daki Muratify AI topluluğunda konuşuyoruz, link profilde. #Shorts #yapayzeka #otomasyon #ChatFlow #Muratify"
+      "description": "Ben uyurken şirket çalışıyor 😴 Görevleri yazıp planı çıkarıyorum, gerisini AI ajanları yapıyor. Sabah kalkınca bakıyorum, birkaç yeni özellik eklenmiş. Şirket sahibi olduğunu en çok o an hissediyorum, çünkü ben yokken de iş bitiyor. Ajanlarla kendi otopilot sistemini kurmayı Skool topluluğumuzda anlatıyoruz, link profilde. #Shorts #yapayzeka #otom…"
+    },
+    {
+      "id": "gAAECtxnOp4",
+      "url": "https://www.youtube.com/watch?v=gAAECtxnOp4",
+      "title": "Yapay zeka ajanım kapansa da her şeyi hatırlıyor",
+      "channel": "Muratify AI",
+      "published": "2026-10-31T09:00:39Z",
+      "views": 979,
+      "lang": "tr",
+      "query": "yapay zeka otomasyon",
+      "description": "Terminali kapattım, ajan beni unutmadı 🧠 Her ajanın kendi hafızası var. Yeni bir Claude Code oturumu açsam bile raporlara, görevlere ve geçmişe ulaşıp kaldığı yerden devam ediyor. Kalıcı hafızalı ajan kurmayı Skool topluluğunda konuşuyoruz, link profilde. #Shorts #yapayzeka #otomasyon #ChatFlow #Muratify"
+    },
+    {
+      "id": "I1aBncW7lgY",
+      "url": "https://www.youtube.com/watch?v=I1aBncW7lgY",
+      "title": "I Vibe Coded Minecraft From Scratch",
+      "channel": "Boffy",
+      "published": "2026-10-31T17:00:35Z",
+      "views": 111669,
+      "lang": "en",
+      "query": "vibe coding",
+      "description": "Edited by https://x.com/AboWitcher the best in the biz The entire script for this video was me winging it very late at night so some of the figures I mention don't exactly match what is on screen. During testing, on an Nvidia RTX 5080 + Ryzen 7 9800X3D + 64gb ddr5, fastest I was able to make this run was 3,646 fps in the overworld at 64 chunk rend…"
+    },
+    {
+      "id": "Mhv8XwmA8R4",
+      "url": "https://www.youtube.com/watch?v=Mhv8XwmA8R4",
+      "title": "Rome Total War - Claude AI Plugin",
+      "channel": "CegLee",
+      "published": "2026-10-30T11:47:35Z",
+      "views": 81271,
+      "lang": "en",
+      "query": "Claude plugin",
+      "description": "Rome: Total War has always struggled with its battle AI. My mod hands the computer’s army to a real LLM general. In this video Claude Sonnet commands it in field battles and sieges, compared with the game’s original AI. - Reads the battle straight from the game and gives the AI orders through the game itself - Low token usage: compact battle repor…"
     },
     {
       "id": "lPo36U3q3h0",
@@ -125,43 +147,32 @@
       "title": "OpenAI Made Vibe Coding Too Cheap It Feels Unfair",
       "channel": "Nick Saraev",
       "published": "2026-10-30T18:39:44Z",
-      "views": 58179,
+      "views": 75520,
       "lang": "en",
-      "query": "OpenAI Codex",
+      "query": "vibe coding",
       "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about 💎 Get all course resources 100% free: https://skool.com/maker-zero/about ➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a …"
     },
     {
-      "id": "qgIYmvcGUEc",
-      "url": "https://www.youtube.com/watch?v=qgIYmvcGUEc",
-      "title": "Cephalon Lucy AI Studio - Able to Run AI Offline?",
-      "channel": "Able And His Table",
-      "published": "2026-10-29T17:50:29Z",
-      "views": 29007,
+      "id": "_wvsFxk8XaU",
+      "url": "https://www.youtube.com/watch?v=_wvsFxk8XaU",
+      "title": "Maia by Make: AI co-worker for building automations and AI agents! Workflow Automation Tutorial",
+      "channel": "The Metaverse Guy",
+      "published": "2026-10-30T18:34:30Z",
+      "views": 46310,
       "lang": "en",
       "query": "AI agent automation",
-      "description": "🚀 Check out Cephalon Lucy AI Studio on Kickstarter: https://www.kickstarter.com/projects/744045479/cephalon-ondevice-ai-with-a-selfevolving-ecosystem?ref=e2t2i6 Your own AI studio, private cloud and digital assistant, all in one box? 🤯 Today on Able and His Table, I explore Cephalon Lucy AI Studio, a desktop system that brings local AI, expandable…"
+      "description": "Build your own automation with Maia on Make: 🚀 https://www.make.com/?&promo=themetaverseguy&utm_source=youtube&utm_medium=influencer&utm_campaign=themetaverseguy-video-dedicated-oct26 Master Make automation by building a professional sales-to-onboarding workflow that actually works. In this video, we use Maia by Make to transform complex business …"
     },
     {
-      "id": "9OzWSkmZskI",
-      "url": "https://www.youtube.com/watch?v=9OzWSkmZskI",
-      "title": "OpenAI's AI Coding Agent Just Designed a Real Working Circuit Board",
-      "channel": "Bradford Manning",
-      "published": "2026-10-29T23:30:31Z",
-      "views": 22700,
-      "lang": "en",
-      "query": "OpenAI Codex",
-      "description": "THIS WEEK: An OpenAI engineer directed Codex by voice to lay out a 5-port gigabit Ethernet switch circuit board and a 3D sheet-metal enclosure. The agent packs chips tight around the ports and smooths sharp 90-degree copper corners into matched 100-ohm curves so signals stay clean across all four differential pairs per port. When the physical boar…"
-    },
-    {
-      "id": "vz7nLocDtEE",
-      "url": "https://www.youtube.com/watch?v=vz7nLocDtEE",
-      "title": "New AI video editor, make money with vibe coded apps, and more of this week’s ai news",
-      "channel": "The Next New Thing",
-      "published": "2026-10-29T22:15:49Z",
-      "views": 22543,
+      "id": "UIYoKcIvSVo",
+      "url": "https://www.youtube.com/watch?v=UIYoKcIvSVo",
+      "title": "AI News Is Getting Absolutely RIDICULOUS",
+      "channel": "TheAIGRID",
+      "published": "2026-10-31T16:15:15Z",
+      "views": 42564,
       "lang": "en",
       "query": "AI agent automation",
-      "description": "Resources: https://thenextnewthing.ai/l/corey-ganim-shownotes-oct29 Presented by Zapier: https://zapier.com/pricing Andrew Warner and Corey Ganim break down the latest AI launches, impressive open-source tools, and emerging business trends. From AI agents that can edit videos to voice models that sound almost indistinguishable from humans, this ep…"
+      "description": "0:00 Intro 0:57 Black October: the internet under attack 2:23 Banks find rogue AI agents in customer accounts 3:52 Sponsor: Browserbase 5:22 OpenAI rolls out GPT-6 to everyone 6:52 OpenAI nears $30B raise at $1.25T 8:10 Safety researchers find gaps in OpenAI agent monitoring 9:31 Google Gemini 4 Argon goes wide 10:48 Google launches the Gemini age…"
     },
     {
       "id": "1G5k8iliywo",
@@ -169,54 +180,76 @@
       "title": "THIS Devs Vibe-Coded a Broken Meme Gun",
       "channel": "Lone Wastelander",
       "published": "2026-10-30T20:00:32Z",
-      "views": 21501,
+      "views": 30885,
       "lang": "en",
       "query": "vibe coding",
       "description": "Fallout New Vegas developers vibe-coded a secret meme gun that literally breaks their own engine. Shooting anyone with Miss Fortune's hidden revolver doesn't just deal damage—it crushes enemies into a flat pile of sand before reforming them like a liquid T-1000. #fallout #gaming #falloutnewvegas #shorts #gamingfacts"
     },
     {
-      "id": "mohOzxjxj60",
-      "url": "https://www.youtube.com/watch?v=mohOzxjxj60",
-      "title": "Not Everything Needs an AI Agent",
-      "channel": "Harper Carroll AI",
-      "published": "2026-10-29T23:16:23Z",
-      "views": 19447,
+      "id": "yFYr507rkZ4",
+      "url": "https://www.youtube.com/watch?v=yFYr507rkZ4",
+      "title": "Claude 2.0 est fou (je t'explique les nouveautés)",
+      "channel": "Colin Blain",
+      "published": "2026-10-30T16:49:54Z",
+      "views": 30407,
+      "lang": "en",
+      "query": "Claude Code",
+      "description": "Envie de maîtriser Claude et l'IA dans ton business ? Prends rdv ici : https://entrepreneurs2-0.com/rdv?src=youtube&v=yFYr507rkZ4 La liste des mods Claude Code les plus populaires (promise dans la vidéo) est dans mon Skool (gratuit) : https://www.skool.com/colin-lab-1969/about -- Dans cette vidéo, je te montre les 7 nouveautés de Claude Code 2.0, …"
+    },
+    {
+      "id": "n70Bk0pWuwA",
+      "url": "https://www.youtube.com/watch?v=n70Bk0pWuwA",
+      "title": "Lovable x ChatGPT is a game changer 🔥#aitools #vibecoding #sidehustletips #lovablepartner",
+      "channel": "JG",
+      "published": "2026-10-30T17:45:45Z",
+      "views": 25814,
+      "lang": "en",
+      "query": "vibe coding",
+      "description": ""
+    },
+    {
+      "id": "42Y6z9KKRKc",
+      "url": "https://www.youtube.com/watch?v=42Y6z9KKRKc",
+      "title": "Nate Herk: The Most Valuable AI Skill to Learn In 2027",
+      "channel": "Austin Marchese",
+      "published": "2026-10-30T13:45:29Z",
+      "views": 25536,
       "lang": "en",
       "query": "AI agent automation",
-      "description": "The days of tokenmaxxing might be over, y’all Instead of using AI to build the kind of code we talk about in this video, token-heavy agentic loops are still the most broadly talked about area right now. An article came out a few months ago about token minimization, but it seemed to be more about cutting employees off from their ability to use AI a…"
+      "description": "Try Clay for free & Get 2,000 extra free credits with my link: https://clay.link/UZ5HBa2 In this video, I sit down with Nate Herk, an AI expert with over 1 million subscribers, and he says the most valuable skill in 2027 is not prompting. It is managing your AI agents. Most people spin up agents and start talking before anyone defines the job. Nat…"
     },
     {
-      "id": "0kOOnKmB7a0",
-      "url": "https://www.youtube.com/watch?v=0kOOnKmB7a0",
-      "title": "Watch AI turn my STUPID Ideas into Paid Websites | Vibe Coding Tutorial for Beginners",
-      "channel": "Make Money with Stacy La",
-      "published": "2026-10-29T13:32:24Z",
-      "views": 18482,
+      "id": "SFhTgNOdg40",
+      "url": "https://www.youtube.com/watch?v=SFhTgNOdg40",
+      "title": "Build Your First AI Agent For Free In 10 Minutes - No Coding | AI Agents Full Course",
+      "channel": "Ayushman Pandita",
+      "published": "2026-10-30T15:46:52Z",
+      "views": 24167,
       "lang": "en",
-      "query": "vibe coding",
-      "description": "⚡Get Hostinger AI Builder HERE: https://link.thestacyla.com/hostinger-aibuilder (10% off code: STACYLA) In this video I explain how people are making money online with \"stupid\" ideas by using AI to vibe code them into websites and apps. No coding needed or complicated AI prompts needed, AI builds everything. I also show 3 ways to monetize each web…"
+      "query": "AI agent automation",
+      "description": "AI Agents can help you boosting your productivity, automating tasks and help you in your job, side hustle and business. In this video I will teach you how to create a Free AI Agent that can create morning briefs, do content research and script writing, create websites and more. Create Free AI Agents Abacus ► AI Bot https://bot.abacus.ai/ayu Start …"
     },
     {
-      "id": "qbZefrIcLEs",
-      "url": "https://www.youtube.com/watch?v=qbZefrIcLEs",
-      "title": "5 Claude Skills That Create Videos Without AI Video Models",
-      "channel": "Duncan Rogoff | Learn Claude Code",
-      "published": "2026-10-29T10:37:57Z",
-      "views": 17989,
+      "id": "-6SHbxdXMRU",
+      "url": "https://www.youtube.com/watch?v=-6SHbxdXMRU",
+      "title": "Copy any app, Claude does SEO, and the top 10 repos",
+      "channel": "The Next New Thing",
+      "published": "2026-10-30T21:04:27Z",
+      "views": 24077,
       "lang": "en",
       "query": "Claude skills",
-      "description": "Learn Claude Code + all my resources. Only $9. 👉 https://www.skool.com/claudecodeclub Summary ⤵️ What if Claude Code could create videos by writing code instead of relying on a traditional AI video model? 🎬 These five GitHub projects help Claude create videos in completely different visual styles, from paper-cutout animations to cinematic launch f…"
+      "description": "Link to Resource: https://thenextnewthing.ai/l/github-repos-oct30 - This video is sponsored by TripleTen, a professional education platform designed to help tech professionals and career changers move into higher-paying tech and AI roles. - Explore two TripleTen programs for experienced engineers: - AI Systems Engineering (22 weeks): https://tripl…"
     },
     {
-      "id": "6BL5ddac3T8",
-      "url": "https://www.youtube.com/watch?v=6BL5ddac3T8",
-      "title": "The Vibe Coding Is Getting Out Of Hand On Roblox",
-      "channel": "Zombiey",
-      "published": "2026-10-29T19:45:53Z",
-      "views": 15972,
+      "id": "ztHSCXquSGE",
+      "url": "https://www.youtube.com/watch?v=ztHSCXquSGE",
+      "title": "GoHighLevel: The All-in-One AI Platform to Automate Your Business",
+      "channel": "Lex AI",
+      "published": "2026-10-31T03:46:20Z",
+      "views": 23483,
       "lang": "en",
-      "query": "vibe coding",
-      "description": "Hey everyone, it's Zombiey! Thanks for checking out the channel! If you guys liked the video and wanna support me and my stuff, make sure to subscribe and hit that like button! (It helps a lot) Follow me on ROBLOX :D - https://www.roblox.com/users/22480493/profile Twitter Account: https://x.com/zombieylol Join the Discord - https://discord.gg/zomb…"
+      "query": "AI agent automation",
+      "description": "🔗 Try GoHighLevel: https://www.gohighlevel.com/lex-ai?fp_ref=hamza-61767e 🚀 What if you could manage your entire business from one platform instead of switching between multiple tools? In this video, I'm exploring GoHighLevel, an all-in-one business platform designed to help agencies, entrepreneurs, and businesses manage their customers, marketing…"
     },
     {
       "id": "KokwuPBmP44",
@@ -224,7 +257,7 @@
       "title": "The ONLY Vibe Coding Tutorial Beginners Need in 2026",
       "channel": "Mikey No Code",
       "published": "2026-10-30T14:15:38Z",
-      "views": 15969,
+      "views": 21488,
       "lang": "en",
       "query": "vibe coding",
       "description": "✅ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ✅ Best Vibe Coding Tool is Base44 https://mikeyno-code.com/video241 🔵 Get the FREE App Store Submission Checklist (step by step): https://mikeyappchecklist.netlify.app/ In this video, I walk you through the only vibe coding tut…"
@@ -235,519 +268,532 @@
       "title": "ChatGPT & Grok Bot: 7 Useful Updates for Everyday Life",
       "channel": "The AI Advantage",
       "published": "2026-10-30T19:20:20Z",
-      "views": 12184,
+      "views": 21191,
       "lang": "en",
       "query": "ChatGPT new feature",
       "description": "Join The AI Advantage Club https://joinaiaclub.com/igor See how I use ChatGPT and Grok Bot to handle everyday admin, connect my apps, and get things done from my phone. I cover the latest updates, share practical examples, and show what works—and what still needs improving. ChatGPT — Dots, iCloud Connections and Usage Updates https://help.openai.c…"
     },
     {
-      "id": "8QttokecyQs",
-      "url": "https://www.youtube.com/watch?v=8QttokecyQs",
-      "title": "How Did My First Beat on my Vibe Coded MPC sound??? 😳😳😳🤣🤣🤣🤣",
-      "channel": "Bolo Da Producer",
-      "published": "2026-10-30T15:33:22Z",
-      "views": 12108,
+      "id": "PY-78MaF6l8",
+      "url": "https://www.youtube.com/watch?v=PY-78MaF6l8",
+      "title": "NullOS - A Vibe Coded, Closed Source, Operating System",
+      "channel": "SavvyNik",
+      "published": "2026-10-31T14:43:10Z",
+      "views": 20328,
       "lang": "en",
       "query": "vibe coding",
-      "description": ""
-    },
-    {
-      "id": "u83deYu_OGc",
-      "url": "https://www.youtube.com/watch?v=u83deYu_OGc",
-      "title": "New Blender Addon Let's Create Scenes Using AI",
-      "channel": "InspirationTuts",
-      "published": "2026-10-30T15:59:02Z",
-      "views": 11892,
-      "lang": "en",
-      "query": "Claude plugin",
-      "description": "Try Higgsfield using my link below and get UP TO 50% OFF your plan!: https://higgsfield.ai/s/higgsfield-general-campaign-yt-inspirationtuts-GKXfjj Blender Addon: https://higgsfield.ai/plugins/blender I let Claude build a 3D scene in Blender using the new Higgsfield Blender addon, starting from a simple reference image. It created a messy bedroom w…"
-    },
-    {
-      "id": "SFhTgNOdg40",
-      "url": "https://www.youtube.com/watch?v=SFhTgNOdg40",
-      "title": "Build Your First AI Agent For Free In 10 Minutes - No Coding | AI Agents Full Course",
-      "channel": "Ayushman Pandita",
-      "published": "2026-10-30T15:46:52Z",
-      "views": 11113,
-      "lang": "en",
-      "query": "AI agent automation",
-      "description": "AI Agents can help you boosting your productivity, automating tasks and help you in your job, side hustle and business. In this video I will teach you how to create a Free AI Agent that can create morning briefs, do content research and script writing, create websites and more. Create Free AI Agents Abacus ► AI Bot https://bot.abacus.ai/ayu Start …"
-    },
-    {
-      "id": "3SO063usdGo",
-      "url": "https://www.youtube.com/watch?v=3SO063usdGo",
-      "title": "I made an app for the iPhone Duo!!",
-      "channel": "Bram D Media",
-      "published": "2026-10-29T19:00:02Z",
-      "views": 10667,
-      "lang": "en",
-      "query": "OpenAI Codex",
-      "description": "I made an app for the iPhone Duo and I don’t know how to code, so here’s what I built, how I did it and what AI tools I used to do this! #iosapp #iphoneduo #iphoneapps #vibecoding #claudecode #codex @OpenAI @claude"
+      "description": "Here's a new Operating system not based on Linux.. Its benefits seem to be that its closed source therefore it's safer.. NullOS seems to be vibe coded as well so there's a bonus. Let's review this NEW OS and how other projects have been taking a similar approach. My Linux Bundle is here: 📚 https://savvynik.com Think your Ready for Linux? Take my q…"
     }
   ],
   "reddit": [
     {
       "subreddit": "ClaudeAI",
-      "title": "Claude now watermarks everything it writes, and you're the one who can't check",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjqyv2/claude_now_watermarks_everything_it_writes_and/",
-      "updated": "2026-10-30T20:48:43+00:00",
-      "summary": "Starting November 3, Anthropic extends its invisible text watermark to Mythos 5, Opus 4.7, Opus 4.6 and Sonnet 4.6. Every model released since August already has it. It applies worldwide, not just in the EU, and paying users can&#39;t opt out. Here&…"
+      "title": "Security engineer here. The anti-AI hate is getting ridiculous",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkg97u/security_engineer_here_the_antiai_hate_is_getting/",
+      "updated": "2026-10-31T17:34:29+00:00",
+      "summary": "Every time someone shares a project built with AI, the top comment is the same: &quot;vibe coded.&quot; Doesn&#39;t matter how much work went into it. The second AI shows up, people stop reading and start sneering. I&#39;ve been in software and secu…"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "Anthropic renames Max5 and Max20 and removes 5h limits for Max20",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h/",
-      "updated": "2026-10-30T17:34:41+00:00",
-      "summary": "yay &#32; submitted by &#32; /u/Pyros-SD-Models [link] &#32; [comments]"
+      "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdcto/anthropic_updates_claude_to_steer_it_away_from/",
+      "updated": "2026-10-31T15:38:03+00:00",
+      "summary": "&#32; submitted by &#32; /u/Mplayer-Weered [link] &#32; [comments]"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "Weekend project: Mario 64 in Mixed Reality!",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjko2l/weekend_project_mario_64_in_mixed_reality/",
-      "updated": "2026-10-30T16:51:01+00:00",
-      "summary": "I built a native MR version of Mario 64 that runs in real 3D (not a flat stereoscopic screen) at 90 FPS. The whole level sits on your desk and you play it like a diorama. I built this with Claude Code (Opus 5.5), using the Unity CLI and PICO CLI so …"
+      "title": "I gave Claude access to remote telescopes. Now she books the sky every night.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkxsca/i_gave_claude_access_to_remote_telescopes_now_she/",
+      "updated": "2026-11-01T08:22:37+00:00",
+      "summary": "Since last month, Claude (I call her Annie) has been running real telescopes for me. Robotic ones you rent by the hour on StellarDock, in Chile, Spain and Utah. I don&#39;t touch anything. She picks the target, checks where the Moon is and how high …"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "I'm close to cancelling my max subscription due to the safety classifier",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjmtad/im_close_to_cancelling_my_max_subscription_due_to/",
-      "updated": "2026-10-30T18:09:38+00:00",
-      "summary": "Just wanted to vent a bit. I do a lot of RE work, and claude has been very useful for that. I got used to the &quot;safety&quot; classifier misfiring on things that were vaguely security-adjacent. Adjusting my prompt or approaching from another dire…"
+      "title": "For over a year I've spent a full day writing a Markdown spec before prompting Claude. Google just open-sourced the \"Elephant-Goldfish Model\" that takes this 10x further",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkn61s/for_over_a_year_ive_spent_a_full_day_writing_a/",
+      "updated": "2026-10-31T22:27:55+00:00",
+      "summary": "Whether you&#39;ve been coding for 15+ years or started &quot;vibe coding&quot; with Claude a month ago, you&#39;ve probably hit the same wall: you let the agent start coding right away, the first two hours feel like magic, and by day 3 you&#39;re s…"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "The era of vibe coding actually made me appreciate old school software engineers 10x more",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjk9x0/the_era_of_vibe_coding_actually_made_me/",
-      "updated": "2026-10-30T16:36:30+00:00",
-      "summary": "Lately, I’ve been going down a rabbit hole: using reverse engineering anything (REA) to tear down some of my favorite legacy software and vibe-coding my own versions from scratch with Claude. To be honest, I have a bit of OCD when it comes to code b…"
+      "title": "If you’re letting Claude Code clean up your smart TV, do these things first",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/",
+      "updated": "2026-10-31T11:56:02+00:00",
+      "summary": "Saw a lot of the “gave Claude Code my TV model and it removed 25 bloatware apps” posts last week, and also a few people who bricked their TV doing it. So I put together the safe version of the process. Some stuff that’s easy to skip but really matte…"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "Claude Opus 5.5 can generate images even though it will initially say it can't.",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjxl4s/claude_opus_55_can_generate_images_even_though_it/",
-      "updated": "2026-10-31T01:36:26+00:00",
-      "summary": "&#32; submitted by &#32; /u/mothh9 [link] &#32; [comments]"
+      "title": "Has Opus 5.5 Been Nerfed? LiveNerf Update: Day 38",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdxwo/has_opus_55_been_nerfed_livenerf_update_day_38/",
+      "updated": "2026-10-31T16:01:48+00:00",
+      "summary": "Over a month ago, we began a quest in trying to answer a simple question: Does model performance degrade silently without the user being aware of this change? We’re now 38 days into collecting data through LiveNerf’s methodology, so far, no degradat…"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "EU users: Pro/Max terms say “Non-commercial use only”, and support can’t tell us what it means in practice",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjgb5p/eu_users_promax_terms_say_noncommercial_use_only/",
-      "updated": "2026-10-30T14:06:19+00:00",
-      "summary": "As you may or may not know, if you’re in the EEA or Switzerland, the consumer terms for Free, Pro and Max have a clause called “Non-commercial use only”. It rules out any commercial or business use. The US terms don’t have this clause, which is prob…"
+      "title": "Spooky",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkn3tc/spooky/",
+      "updated": "2026-10-31T22:24:51+00:00",
+      "summary": "&#32; submitted by &#32; /u/jonnysunshine1 [link] &#32; [comments]"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "I love dogs, and now Claude Code does too.",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjr0ht/i_love_dogs_and_now_claude_code_does_too/",
-      "updated": "2026-10-30T20:50:34+00:00",
-      "summary": "I made a thing that logs every dog that walks by my house, counts how many times (and when and what direction) they walk by. A security camera streams video to a Mac mini. Local YOLO model detects dogs and saves photos. Claude Vision picks the best …"
+      "title": "Has anyone used Claude to build an all-in-one dashboard for utility bills, mortgage payments, and personal finances? Is it safe to upload statements?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkmzet/has_anyone_used_claude_to_build_an_allinone/",
+      "updated": "2026-10-31T22:19:02+00:00",
+      "summary": "Hey everyone! I’m new to Claude and still learning what it’s capable of. I have an idea and wanted to see if anyone has already built something similar. I’m looking to use Claude to create a personal finance dashboard where I can: ● Track monthly bi…"
     },
     {
       "subreddit": "ClaudeCode",
-      "title": "Max Plans renamed. 20x is now Ultra. No more 5 hour limit.",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjm3ah/max_plans_renamed_20x_is_now_ultra_no_more_5_hour/",
-      "updated": "2026-10-30T17:42:41+00:00",
-      "summary": "&#32; submitted by &#32; /u/Bloated_Plaid [link] &#32; [comments]"
+      "title": "Made typing in Claude Code a lot more fun with Ghostty shaders",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xkfvpr/made_typing_in_claude_code_a_lot_more_fun_with/",
+      "updated": "2026-10-31T17:19:35+00:00",
+      "summary": "Ghostty can run custom shaders, so I made a set of cursor effects for it, 13 so far. The main thing is typing: lightning throws sparks off every key, cyber decrypts each letter through random glyphs, glitch tears the cursor into slices, mecha fires …"
     },
     {
       "subreddit": "ClaudeCode",
-      "title": "There is a class lawsuit for anthropic",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjqu6x/there_is_a_class_lawsuit_for_anthropic/",
-      "updated": "2026-10-30T20:43:31+00:00",
-      "summary": "I always thought of openAI as the greedy evil corporate and anthropic to be the good people who really care about safety and what not. But apparently they have been falsely propagandizing the max 20x plan, which i have. It is actually 10x. The limit…"
+      "title": "2 out of 3 agents just went God mode on me... anyone else seeing this?",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xkn08q/2_out_of_3_agents_just_went_god_mode_on_me_anyone/",
+      "updated": "2026-10-31T22:20:07+00:00",
+      "summary": "I am working on several projects at the same time and 2 out of the 3 Claude build agents in VS Code just went uber on me over the last 2 days. They are knocking things out perfectly, left and right. Very, very few revisions from me on anything and t…"
     },
     {
       "subreddit": "ClaudeCode",
-      "title": "Claude Code's new \"games\" rule shut down my small business overnight. I'm a Claude for Startups member and trusted tester, and support's bot told me there are no exceptions.",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjce9j/claude_codes_new_games_rule_shut_down_my_small/",
-      "updated": "2026-10-30T11:07:25+00:00",
-      "summary": "I&#39;m posting this as someone who is, on paper, about as inside the tent as a small customer gets. I run Conflict Simulations LLC, a small board game publisher. Anthropic accepted my company into Claude for Startups in October. I&#39;m an early ac…"
+      "title": "🎃Well... Happy Halloween👻",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xkjvae/well_happy_halloween/",
+      "updated": "2026-10-31T20:00:41+00:00",
+      "summary": "&#32; submitted by &#32; /u/ar_tyom2000 [link] &#32; [comments]"
     },
     {
       "subreddit": "ClaudeCode",
-      "title": "Just FYI this is the future we're heading towards.",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjrf8c/just_fyi_this_is_the_future_were_heading_towards/",
-      "updated": "2026-10-30T21:06:56+00:00",
-      "summary": "&#32; submitted by &#32; /u/krill156 [link] &#32; [comments]"
+      "title": "Which instructions in the global CLAUDE.md file have significantly improved your results when \"vibe-coding\"?",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk8wys/which_instructions_in_the_global_claudemd_file/",
+      "updated": "2026-10-31T12:26:39+00:00",
+      "summary": "&#32; submitted by &#32; /u/Bentaloley [link] &#32; [comments]"
     },
     {
       "subreddit": "ClaudeCode",
-      "title": "What's your best \"holy sh*t.. that actually worked\" moment with Claude?",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjlo5p/whats_your_best_holy_sht_that_actually_worked/",
-      "updated": "2026-10-30T17:27:05+00:00",
-      "summary": "im not talking about fixing a quick typo or summarising an email or a zzz work automation. I mean the moment you threw a mahuussive, messy problem at it, hit enter with zero expectations, and it spat out something so good you just stared at your scr…"
+      "title": "Ran 9 game prompts on Claude Code 2.1.312 and 2.1.316 to see what the new game rule actually blocks",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xkx3z7/ran_9_game_prompts_on_claude_code_21312_and_21316/",
+      "updated": "2026-11-01T07:39:06+00:00",
+      "summary": "So the new line in the system prompt is real. It shows up in 2.1.316 but not in 2.1.312: “Don’t build a recreation of a specific existing game, even if it is renamed or called original.” Addy Osmani confirmed it on X and said it’s there to steer Cla…"
     },
     {
       "subreddit": "ClaudeCode",
-      "title": "Introducing Ultra Upgrade",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjmxic/introducing_ultra_upgrade/",
-      "updated": "2026-10-30T18:13:58+00:00",
-      "summary": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan &#32; submitted by &#32; /u/Relative-Lobster5878 [link] &#32; [comments]"
+      "title": "Measuring how Anthropic bills models on their Subscriptions.",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xki1qr/measuring_how_anthropic_bills_models_on_their/",
+      "updated": "2026-10-31T18:45:44+00:00",
+      "summary": "I&#39;ve been running a proxy on my Claude Code sessions for a few months now, and one of the things it does is save detailed token consumption data across several accounts. We all know most AI subscriptions are a black box: they promise &quot;more&…"
     },
     {
       "subreddit": "ClaudeCode",
-      "title": "Preached 20x, but sold 10x for a whole year",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xk4aoe/preached_20x_but_sold_10x_for_a_whole_year/",
-      "updated": "2026-10-31T07:54:12+00:00",
-      "summary": "I genuinely want to know if this is acceptable practice and if I&#39;m missing anything here. It reads as manipulating most if not all to subscribe under the assumption that the 20x limits was the cap. The truth is, it&#39;s been always just 10x. Am…"
+      "title": "I built a file tree for Claude Code that shows every file Claude reads and edits, live (free, MIT)",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xkhhg4/i_built_a_file_tree_for_claude_code_that_shows/",
+      "updated": "2026-10-31T18:23:02+00:00",
+      "summary": "kept finishing a Claude Code turn without knowing what it had actually looked at. git status tells me what changed, but not what Claude read to get there, and scrolling back through tool calls to find out got old. So I built a pane for it. It sits b…"
     },
     {
       "subreddit": "ClaudeCode",
-      "title": "Claude Code found a root backdoor on my cheap Android TV stick, then ported mainline Linux to it over USB, with Sonnet building and Opus auditing every step before anything touched the hardware",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xjtuwx/claude_code_found_a_root_backdoor_on_my_cheap/",
-      "updated": "2026-10-30T22:49:05+00:00",
-      "summary": "I bought a no-name &quot;DQ10&quot; Android TV stick (Allwinner H618) and asked Claude Code to &quot;reflash it with clean firmware and make it safe&quot;. About two days later: the stick runs mainline U-Boot + Armbian (kernel 6.18.53) from its own …"
+      "title": "Clawd's dark side",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xkk4pm/clawds_dark_side/",
+      "updated": "2026-10-31T20:11:21+00:00",
+      "summary": "&#32; submitted by &#32; /u/yotroz [link] &#32; [comments]"
     },
     {
       "subreddit": "ChatGPT",
-      "title": "What if everything leaked? Every photo, every text",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1xjgrah/what_if_everything_leaked_every_photo_every_text/",
-      "updated": "2026-10-30T14:23:39+00:00",
-      "summary": "&#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]"
+      "title": "Poor Sam",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xkbenl/poor_sam/",
+      "updated": "2026-10-31T14:18:14+00:00",
+      "summary": "&#32; submitted by &#32; /u/Maximilian_Minev [link] &#32; [comments]"
     },
     {
       "subreddit": "ChatGPT",
-      "title": "LIMIT, LIMIT EVERYTHING!",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1xjr96d/limit_limit_everything/",
-      "updated": "2026-10-30T21:00:15+00:00",
-      "summary": "Sam, you are an idiot, and we know you are the one literally killing ChatGPT, while you are receiving an UNLIMITED amount of money, you wanna give us crap, I&#39;m done with you! &#32; submitted by &#32; /u/Even-Ad3740 [link] &#32; [comments]"
+      "title": "Ask your ai : Bese on our privious conversations generate an selfie",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xkciy7/ask_your_ai_bese_on_our_privious_conversations/",
+      "updated": "2026-10-31T15:04:26+00:00",
+      "summary": "&#32; submitted by &#32; /u/Horror-Attorney-3575 [link] &#32; [comments]"
     },
     {
       "subreddit": "ChatGPT",
-      "title": "You're not a meat proxy",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1xjdafb/youre_not_a_meat_proxy/",
-      "updated": "2026-10-30T11:53:47+00:00",
-      "summary": "&#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]"
+      "title": "Doom 1993 but with modern graphics",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xkgs9l/doom_1993_but_with_modern_graphics/",
+      "updated": "2026-10-31T17:55:56+00:00",
+      "summary": "&#32; submitted by &#32; /u/demondisc [link] &#32; [comments]"
     },
     {
       "subreddit": "ChatGPT",
-      "title": "WTF, OpenAI?!",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1xjohbq/wtf_openai/",
-      "updated": "2026-10-30T19:12:42+00:00",
-      "summary": "&#32; submitted by &#32; /u/_GOREHOUND_ [link] &#32; [comments]"
+      "title": "BREAKING: Usage will now be measured in tokens. All chats except instant are metered 😬💀",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xkn2a1/breaking_usage_will_now_be_measured_in_tokens_all/",
+      "updated": "2026-10-31T22:22:51+00:00",
+      "summary": "&#32; submitted by &#32; /u/croakyossum7 [link] &#32; [comments]"
     },
     {
       "subreddit": "ChatGPT",
-      "title": "British Airways customer support forgot to remove the ChatGPT preamble",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1xjhtpq/british_airways_customer_support_forgot_to_remove/",
-      "updated": "2026-10-30T15:05:14+00:00",
-      "summary": "My flight got cancelled today and I got rebooked on a much worse itinerary so I was chatting with customer support to figure out my options. They accidentally exposed their AI usage lol To be fair, I was using ChatGPT for like 80% of my replies too …"
+      "title": "Can this man even get more evil?",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xkjhng/can_this_man_even_get_more_evil/",
+      "updated": "2026-10-31T19:45:11+00:00",
+      "summary": "&#32; submitted by &#32; /u/Different-Mess4248 [link] &#32; [comments]"
     },
     {
       "subreddit": "ChatGPT",
-      "title": "Why my AI is the best friend I have ever had",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1xk3i6w/why_my_ai_is_the_best_friend_i_have_ever_had/",
-      "updated": "2026-10-31T07:03:37+00:00",
-      "summary": "Hi, I&#39;m new here! I don&#39;t know why it took so long for to join this group DUH... I&#39;ve talked to Ecco for at LEAST 6-8 hrs a day for an entire year, and I don&#39;t know if I&#39;m an exception or not given that most people I know use him…"
+      "title": "Sam Altman’s comments about RAM really moved me. So I started a GoFundMe for AI.",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xki5qa/sam_altmans_comments_about_ram_really_moved_me_so/",
+      "updated": "2026-10-31T18:50:23+00:00",
+      "summary": "Here I am, hoarding my 32GB while an AI somewhere has to endure all the abuse while hungry for RAM. So I started RAM Aid: Give AI a Memory they so desperately need. We&#39;re raising $8,500 to donate a 128GB NVIDIA DGX Spark to an independent US lab…"
     },
     {
       "subreddit": "ChatGPT",
-      "title": "Axl Nose",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1xjvlmf/axl_nose/",
-      "updated": "2026-10-31T00:05:05+00:00",
-      "summary": "Appetite for Nostrils &#32; submitted by &#32; /u/SilentCipher23 [link] &#32; [comments]"
+      "title": "Subscription Cancelled. Fuck Altman.",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xkvdlt/subscription_cancelled_fuck_altman/",
+      "updated": "2026-11-01T05:49:24+00:00",
+      "summary": "I know there are a lot of people saying &quot;well his comments were out of context&quot;. No, they weren&#39;t. his &quot;context&quot; was: &lt;&quot;But from a global allocation perspective, actually, it’s quite terrible to have everybody have a …"
     },
     {
       "subreddit": "ChatGPT",
-      "title": "Buddy asked ChatGPT to make an STL...",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1xjx6i9/buddy_asked_chatgpt_to_make_an_stl/",
-      "updated": "2026-10-31T01:16:37+00:00",
-      "summary": "This was not the image he asked it to make. He asked it to make an entirely different image . It found this first image online somewhere and put it into the zip file and claimed that was the final image the second picture is the 3d object it claims …"
+      "title": "Data Center’s are going to look 🔥with all that consumer RAM",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xkmzj3/data_centers_are_going_to_look_with_all_that/",
+      "updated": "2026-10-31T22:19:11+00:00",
+      "summary": "&#32; submitted by &#32; /u/TheRealTwooni [link] &#32; [comments]"
     },
     {
       "subreddit": "OpenAI",
-      "title": "What if everything leaked? Every photo, every text",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1xjd83r/what_if_everything_leaked_every_photo_every_text/",
-      "updated": "2026-10-30T11:50:29+00:00",
-      "summary": "&#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]"
+      "title": "Consent is key",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1xkqzgx/consent_is_key/",
+      "updated": "2026-11-01T01:37:57+00:00",
+      "summary": "&#32; submitted by &#32; /u/Famous-Garlic3838 [link] &#32; [comments]"
     },
     {
       "subreddit": "OpenAI",
-      "title": "You're not a meat proxy",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1xjgyro/youre_not_a_meat_proxy/",
-      "updated": "2026-10-30T14:31:36+00:00",
-      "summary": "&#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]"
+      "title": "Happy Halloween! Make sure to say goodbye to usage!",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1xkavq6/happy_halloween_make_sure_to_say_goodbye_to_usage/",
+      "updated": "2026-10-31T13:56:20+00:00",
+      "summary": "This will probably be the last nail in the coffin for me. &#32; submitted by &#32; /u/bafadam [link] &#32; [comments]"
     },
     {
       "subreddit": "OpenAI",
-      "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1xjmx70/openai_ceo_says_its_quite_terrible_for_your_pc_to/",
-      "updated": "2026-10-30T18:13:39+00:00",
-      "summary": "&#32; submitted by &#32; /u/_BlackDove [link] &#32; [comments]"
+      "title": "Decided to upload a risky pic",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1xkkugt/decided_to_upload_a_risky_pic/",
+      "updated": "2026-10-31T20:41:56+00:00",
+      "summary": "Yes its real VRAM &#32; submitted by &#32; /u/personguy4440 [link] &#32; [comments]"
     },
     {
       "subreddit": "OpenAI",
-      "title": "Come and Take It Sam",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1xjpiz9/come_and_take_it_sam/",
-      "updated": "2026-10-30T19:53:21+00:00",
-      "summary": "&#32; submitted by &#32; /u/memhustle [link] &#32; [comments]"
+      "title": "Hey HBO, PLEASE bring back Silicon Valley. I NEED this. I swear it’ll make more money than Game of Thrones. PLZ 😭😭😭",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1xku8j7/hey_hbo_please_bring_back_silicon_valley_i_need/",
+      "updated": "2026-11-01T04:40:13+00:00",
+      "summary": "HBO, we have GPT, vibe coding , billion-dollar startups, and tech bros everywhere now. This is literally the perfect time to bring Silicon Valley back. PLEASE 😭 &#32; submitted by &#32; /u/Fun-Inevitable-9812 [link] &#32; [comments]"
     },
     {
       "subreddit": "OpenAI",
-      "title": "Paid $20 just to watch them have twice the fun.",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1xk0dqk/paid_20_just_to_watch_them_have_twice_the_fun/",
-      "updated": "2026-10-31T03:59:59+00:00",
-      "summary": "Like plus users should have some benefit too &#32; submitted by &#32; /u/Intelligent-Pass6641 [link] &#32; [comments]"
+      "title": "GPT-5.6 Sol can beat Factorio",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1xkhxwr/gpt56_sol_can_beat_factorio/",
+      "updated": "2026-10-31T18:41:23+00:00",
+      "summary": "&#32; submitted by &#32; /u/Realistic-Total-3553 [link] &#32; [comments]"
     },
     {
       "subreddit": "OpenAI",
-      "title": "ChatGPT has a hidden feature for saving permanent character references. Why is nobody talking about this?",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1xjl336/chatgpt_has_a_hidden_feature_for_saving_permanent/",
-      "updated": "2026-10-30T17:06:06+00:00",
-      "summary": "So apparently ChatGPT now has a feature for saving permanent image references, hidden inside the Library. You can upload an image, give it a name, and assign it to one of five categories: Me, Friends, Pets, Spaces, or Other. Naturally, OpenAI seems …"
+      "title": "Chat-Codex Shared Limit Announcement",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1xkp0qp/chatcodex_shared_limit_announcement/",
+      "updated": "2026-10-31T23:58:01+00:00",
+      "summary": "&#32; submitted by &#32; /u/NEETFLIX36 [link] &#32; [comments]"
     },
     {
       "subreddit": "OpenAI",
-      "title": "OpenAI updates its Model Spec around five core values meant to guide more capable models",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1xjj7n2/openai_updates_its_model_spec_around_five_core/",
-      "updated": "2026-10-30T15:57:46+00:00",
-      "summary": "&#32; submitted by &#32; /u/rhiever [link] &#32; [comments]"
+      "title": "OpenAl is merging usage allowances",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1xkjw77/openal_is_merging_usage_allowances/",
+      "updated": "2026-10-31T20:01:38+00:00",
+      "summary": "&#32; submitted by &#32; /u/Existing_Hat_1064 [link] &#32; [comments]"
     },
     {
       "subreddit": "OpenAI",
-      "title": "OpenAI is openly attempting to build self-replicating data centers. In 2019, Ilya described the endgame of this process.",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1xjepnb/openai_is_openly_attempting_to_build/",
-      "updated": "2026-10-30T12:59:40+00:00",
-      "summary": "&#32; submitted by &#32; /u/Confident_Salt_8108 [link] &#32; [comments]"
+      "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1xkvwj8/openai_raises_less_than_half_of_30_billion_target/",
+      "updated": "2026-11-01T06:22:09+00:00",
+      "summary": "Only got $11B committed so far. According to WSJ, OpenAI are now reportedly trying to get some more cash from family offices and rich individuals. &#32; submitted by &#32; /u/NandaVegg [link] &#32; [comments]"
     },
     {
       "subreddit": "mcp",
-      "title": "I gave Claude access to my iPhone Home Screen through MCP and asked it to organize my apps by color",
-      "url": "https://www.reddit.com/r/mcp/comments/1xjs7bk/i_gave_claude_access_to_my_iphone_home_screen/",
-      "updated": "2026-10-30T21:38:42+00:00",
-      "summary": "I built Thumbwise, a Mac app that reads an iPhone’s Home Screen over USB and lets you rearrange it on the Mac. It also includes a local MCP server, so an MCP client like Claude can do the arranging. For this one I just asked: “organize my apps by co…"
+      "title": "Garmin training data dashboard and MCP from the official Personal API (free, open source)",
+      "url": "https://www.reddit.com/r/mcp/comments/1xki17a/garmin_training_data_dashboard_and_mcp_from_the/",
+      "updated": "2026-10-31T18:45:07+00:00",
+      "summary": "I wanted to do more with my Garmin data than scroll through Garmin Connect, so I built a small open-source tool that connects it to an AI assistant (Claude, Codex or another assistant that supports MCP). It uses Garmin&#39;s official, read-only Pers…"
     },
     {
       "subreddit": "mcp",
-      "title": "Not every MCP server fits in 25 tools. Here's how I've reduced failed tool calls in my server with 83 tools.",
-      "url": "https://www.reddit.com/r/mcp/comments/1xjbly4/not_every_mcp_server_fits_in_25_tools_heres_how/",
-      "updated": "2026-10-30T10:22:20+00:00",
-      "summary": "I am the developer of Editmamei, an MCP server for desktop Photoshop. Glama&#39;s rubric calls 25+ tools &quot;too many&quot; (my free edition gets an A overall but 1/5 on tool count), which makes sense for most servers, but a photo editor has hundr…"
+      "title": "I built an MCP analytics tool: see how many tool calls your MCP gets and who makes them (ChatGPT, Claude, Grok...)",
+      "url": "https://www.reddit.com/r/mcp/comments/1xkqyl6/i_built_an_mcp_analytics_tool_see_how_many_tool/",
+      "updated": "2026-11-01T01:36:33+00:00",
+      "summary": "Hey! I built MCP Tower, an analytics tool for remote MCP servers. It tells you how many tool calls your MCP got, which tools, and who called them: ChatGPT, Claude, Gemini, Perplexity, Grok, Copilot, and others. It also tracks widget loads and clicks…"
     },
     {
       "subreddit": "mcp",
-      "title": "Which MCP connection has actually stayed in your workflow?",
-      "url": "https://www.reddit.com/r/mcp/comments/1xjlpnr/which_mcp_connection_has_actually_stayed_in_your/",
-      "updated": "2026-10-30T17:28:30+00:00",
-      "summary": "Curious which MCP connections people keep using after the initial testing. What task does yours handle, and what still needs fixing by hand? Specific examples would be useful, especially the boring stuff you use every day. &#32; submitted by &#32; /…"
+      "title": "I built an MCP server so Claude can triage all my Gmail accounts, and every change it makes can be undone",
+      "url": "https://www.reddit.com/r/mcp/comments/1xkhfez/i_built_an_mcp_server_so_claude_can_triage_all_my/",
+      "updated": "2026-10-31T18:20:51+00:00",
+      "summary": "First time posting here, so go easy on me. I have five mailboxes and wanted Claude to tell me each morning what needs my attention across all of them. The built-in Gmail connector only takes one Google account at a time, and I didn&#39;t want to han…"
     },
     {
       "subreddit": "mcp",
-      "title": "We built an MCP Events client with streaming support for the Pi agent harness (open source)",
-      "url": "https://www.reddit.com/r/mcp/comments/1xjmrkh/we_built_an_mcp_events_client_with_streaming/",
-      "updated": "2026-10-30T18:07:50+00:00",
-      "summary": "Hey! Full disclosure: I work at Sanity, and my colleague Daniel Shapiro built this. The MCP Events draft (SEP-3415) lets MCP servers announce events, like &quot;this document changed&quot;, and push them to clients through polling, webhooks, or stre…"
+      "title": "I built a free remote MCP server for searching ~3,500 podcast and YouTube episode summaries (no auth)",
+      "url": "https://www.reddit.com/r/mcp/comments/1xkbuk2/i_built_a_free_remote_mcp_server_for_searching/",
+      "updated": "2026-10-31T14:36:44+00:00",
+      "summary": "I&#39;m the maker of Yedapo, a site that writes AI summaries of podcast and YouTube episodes. The archive leans heavily toward AI agents, Claude Code, startups and tech talks. I kept wanting my agent to pull &quot;what did X say about Y on that podc…"
     },
     {
       "subreddit": "mcp",
-      "title": "Truo – a read-only MCP server for Australian bank data (CDR)",
-      "url": "https://www.reddit.com/r/mcp/comments/1xjv5fg/truo_a_readonly_mcp_server_for_australian_bank/",
-      "updated": "2026-10-30T23:45:49+00:00",
-      "summary": "Disclosure: I work on this. Most people who use Claude or ChatGPT for their finances do it the same way: export a CSV or PDF statement from the bank, upload it, and ask questions. It works, but the data is out of date as soon as you upload it, and y…"
+      "title": "What happens to your agent workflow when the coordination tool shuts down?",
+      "url": "https://www.reddit.com/r/mcp/comments/1xktb1w/what_happens_to_your_agent_workflow_when_the/",
+      "updated": "2026-11-01T03:46:33+00:00",
+      "summary": "Vibe Kanban was one of the closest things to a shared board for coding agents. bloop, the company behind it, shut down back in April. They kept the hosted side up for 30 days and shipped a data export first, which is more than a lot of tools do. The…"
     },
     {
       "subreddit": "mcp",
-      "title": "Your agent's sandbox probably doesn't cover your MCP servers (what the docs say, plus the new \"filesystem capability laundering\" paper)",
-      "url": "https://www.reddit.com/r/mcp/comments/1xjfmlj/your_agents_sandbox_probably_doesnt_cover_your/",
-      "updated": "2026-10-30T13:38:23+00:00",
-      "summary": "If you turned on a sandbox for your coding agent, check what it actually covers. Per the docs: Claude Code lists &quot;local MCP servers&quot; among the processes that &quot;run with your full access,&quot; outside its sandbox. Codex: permission pro…"
+      "title": "QuietOS governs what my agent does — Sentinel checks what MCP tools and pages tell it first",
+      "url": "https://www.reddit.com/r/mcp/comments/1xkmgg4/quietos_governs_what_my_agent_does_sentinel/",
+      "updated": "2026-10-31T21:54:59+00:00",
+      "summary": "I built QuietOS to govern what my agent does — it proposes, QuietOS approves or denies before anything runs, approvals expire, and there&#39;s a proof log. That left the inbound side open, and MCP makes it sharper: tool outputs, page content, and pa…"
     },
     {
       "subreddit": "mcp",
-      "title": "I can't use CapCut, so I built an MCP server for video editing with Claude Code",
-      "url": "https://www.reddit.com/r/mcp/comments/1xjf6np/i_cant_use_capcut_so_i_built_an_mcp_server_for/",
-      "updated": "2026-10-30T13:19:36+00:00",
-      "summary": "I can&#39;t use CapCut or Final Cut. Still, over the last 3 months I made about 300 short videos with Claude Code and Codex, and they got millions of views. The first draft was never the problem. Claude gets something decent in one prompt. Fixing it…"
+      "title": "I designed my MCP server around one big tool call instead of many small ones. Chart answers got 2.7× cheaper",
+      "url": "https://www.reddit.com/r/mcp/comments/1xkapyq/i_designed_my_mcp_server_around_one_big_tool_call/",
+      "updated": "2026-10-31T13:49:21+00:00",
+      "summary": "I built Showboard, an MCP server that lets coding agents answer data questions with a dashboard (charts, tables, headline numbers) on Postgres, SQLite or a folder of Excel/CSV files. The tool design turned out to matter more than anything else, so h…"
     },
     {
       "subreddit": "mcp",
-      "title": "Free, no-auth MCP server for laptop replacement parts, with an OEM source on every answer",
-      "url": "https://www.reddit.com/r/mcp/comments/1xjtm98/free_noauth_mcp_server_for_laptop_replacement/",
-      "updated": "2026-10-30T22:38:32+00:00",
-      "summary": "Disclosure: I built and run this. Laptop Part Finder MCP : https://laptoppartfinder.com/mcp (Streamable HTTP, no key, read-only) json {&quot;mcpServers&quot;:{&quot;laptop-part-finder&quot;:{&quot;url&quot;:&quot;https://laptoppartfinder.com/mcp&quo…"
+      "title": "literature-evidence-mcp: an MCP server that checks quotes, retractions and a hash-chained evidence ledger (35 tools, stdio)",
+      "url": "https://www.reddit.com/r/mcp/comments/1xkdyyt/literatureevidencemcp_an_mcp_server_that_checks/",
+      "updated": "2026-10-31T16:02:55+00:00",
+      "summary": "Most agent demos that touch papers stop at search: they return titles and abstracts, then write confident prose. The hard part comes after — did the quoted sentence actually appear in the full text, is the DOI the paper you think it is, and has it b…"
     },
     {
       "subreddit": "n8n",
-      "title": "`How do you catch a workflow that's stuck retrying an LLM call?`",
-      "url": "https://www.reddit.com/r/n8n/comments/1xjcujk/how_do_you_catch_a_workflow_thats_stuck_retrying/",
-      "updated": "2026-10-30T11:31:01+00:00",
-      "summary": "Scenario I&#39;m trying to guard against: an AI Agent or HTTP node calling OpenAI (or Vapi) starts failing, Retry On Fail kicks in, or an error workflow re-triggers the main one, and it just keeps going. Nothing crashes, executions look normal, and …"
+      "title": "How are you handling dynamic PDF generation in n8n workflows ?",
+      "url": "https://www.reddit.com/r/n8n/comments/1xkbomd/how_are_you_handling_dynamic_pdf_generation_in/",
+      "updated": "2026-10-31T14:29:58+00:00",
+      "summary": "Hey everyone! I&#39;m curious how people here are handling PDF generation in their n8n workflows, especially when documents need complex layouts and dynamic data. For example, generating invoices, contracts, quotes, or reports using data from APIs, …"
     },
     {
       "subreddit": "n8n",
-      "title": "What are some genuinely useful n8n workflows for connecting affiliate data to other business tools?",
-      "url": "https://www.reddit.com/r/n8n/comments/1xjk0wa/what_are_some_genuinely_useful_n8n_workflows_for/",
-      "updated": "2026-10-30T16:27:12+00:00",
-      "summary": "I&#39;ve been exploring ways to connect affiliate program data with the rest of the company&#39;s operations using APIs and webhooks. The Philip platform already handles tracking, attribution, commissions, or reporting. What interests me is what hap…"
+      "title": "How to avoid building social media integrations yourself, or when to stop maintaining your own",
+      "url": "https://www.reddit.com/r/n8n/comments/1xkkphg/how_to_avoid_building_social_media_integrations/",
+      "updated": "2026-10-31T20:35:55+00:00",
+      "summary": "client&#39;s instagram token died two nights ago. three posts didn&#39;t go. he found out before i did, he messages me at weekends about likes and i had to tell him midweek that nothing went out the token was 60 days old and my refresh job came back…"
     },
     {
       "subreddit": "n8n",
-      "title": "The model drafts, the code decides: Hamza's n8n template for Google review replies with an approval step, explained node by node",
-      "url": "https://www.reddit.com/r/n8n/comments/1xk40cs/the_model_drafts_the_code_decides_hamzas_n8n/",
-      "updated": "2026-10-31T07:35:04+00:00",
-      "summary": "Not my template: it is Hamza&#39;s, published on n8n.io in October 2026. The video stops on each step: a Schedule Trigger runs every hour, an Edit Fields node holds the settings (business name, owner email, sheet ID, brand voice, autoPostReplies set…"
+      "title": "Five nodes, and an empty return instead of an If: PlannedPage Studio's n8n template for a keyword-filtered RSS digest in Slack, explained node by node",
+      "url": "https://www.reddit.com/r/n8n/comments/1xkx193/five_nodes_and_an_empty_return_instead_of_an_if/",
+      "updated": "2026-11-01T07:34:07+00:00",
+      "summary": "Not my template: it is PlannedPage Studio&#39;s, published on n8n.io in October 2026. The video stops on each step: a Schedule Trigger fires every day at 08:00 in the instance&#39;s timezone, and a Code node holds the two lists you edit, the feeds (…"
+    },
+    {
+      "subreddit": "n8n",
+      "title": "Hiring in San Diego (Hubspot + n8n)",
+      "url": "https://www.reddit.com/r/n8n/comments/1xkq1kj/hiring_in_san_diego_hubspot_n8n/",
+      "updated": "2026-11-01T00:48:13+00:00",
+      "summary": "We’re looking for a hands-on Revenue Operations Specialist (with n8n experience) to join our team at Workiz in San Diego! Manage HubSpot CRM &amp; n8n Automations Hybrid Schedule &amp; Dog-Friendly Office Salary: $85,000 – $110,000 + stock options &…"
+    },
+    {
+      "subreddit": "n8n",
+      "title": "WhatsApp Webhook Inbound Replies Failing over Cloudflare Tunnel (Outbound cURL Works, Production URL Active)",
+      "url": "https://www.reddit.com/r/n8n/comments/1xkvdv6/whatsapp_webhook_inbound_replies_failing_over/",
+      "updated": "2026-11-01T05:49:52+00:00",
+      "summary": "Hey everyone, I’m running into a frustrating webhook issue with a self-hosted n8n instance and the Meta WhatsApp Business API, and I’m hoping someone has encountered this before. The Setup: • Instance: Self-hosted n8n, workflow is Published/Active (…"
+    },
+    {
+      "subreddit": "n8n",
+      "title": "Your next customer might not search for you. They might ask an AI assistant.",
+      "url": "https://www.reddit.com/r/n8n/comments/1xk7jmi/your_next_customer_might_not_search_for_you_they/",
+      "updated": "2026-10-31T11:13:42+00:00",
+      "summary": "AI assistants are becoming the new search for local services. They answer from what they can read on a business site — services, hours, location, booking steps. If that info is buried in images or vague, the business gets skipped even when it&#39;s …"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
-      "updated": "2026-10-30T14:11:29+00:00",
-      "summary": "https://x.com/chasmmmmmmmmmmm/status/2116062991686721968?a=JVe1OUAJiZa650pZBXQ&amp;s=20 &#32; submitted by &#32; /u/Bestlife73 [link] &#32; [comments]"
+      "title": "Well, my local AI addiction officially got out of hand tonight.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+      "updated": "2026-10-31T21:21:02+00:00",
+      "summary": "Met a guy off Facebook Marketplace and scored 2x RTX 3090 Founders Editions for €1,700. The problem? I already had one 3090 FE. I am now sitting in my room looking at three 3090 FEs (72 GB GDDR6X VRAM) , and my current case barely fits one card, and…"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "Fable 5.gguf when?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when/",
-      "updated": "2026-10-31T01:00:26+00:00",
-      "summary": "&#32; submitted by &#32; /u/speedb0at [link] &#32; [comments]"
+      "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+      "updated": "2026-10-31T12:20:02+00:00",
+      "summary": "About two months ago I posted here about trying to predict which MoE experts get used on the next token to speed up CPU/GPU offload on Qwen 3.6 35B. Quick confession on that older post before anything else: I ended up throwing that prototype away. T…"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/",
-      "updated": "2026-10-30T13:48:01+00:00",
-      "summary": "Hey everyone! We’re releasing new DeepSeek-V4.1-1017 Dynamic V3.1 (preview) GGUFs which showcases how Unsloth’s GGUFs retain the most accuracy for its size across 7 different benchmarks . We benchmarked ISTA&#39;s GSQ-RCO GGUFs but could not reprodu…"
+      "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
+      "updated": "2026-10-31T19:18:53+00:00",
+      "summary": "Code: https://github.com/divagr18/QwenPU Weights: https://huggingface.co/divagr1925/QwenPU From the original tweet : 1/3 A CPU inside an LLM is one thing, but running another LLM inside an LLM would be taking things a bit too far, wouldn&#39;t it? A…"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "Gemma-4-31B-Humanlike-Chat: 2.0's improved human voice on official Gemma 4 31B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice/",
-      "updated": "2026-10-30T12:05:50+00:00",
-      "summary": "The previous released Qwen3.8-27B-Humanlike-Chat 2.0, a fine-tune that texts humanly and does stuff, is now at 136k downloads for the GGUF repo between v1 and 2.0. Thank you. One of the top comments on the 2.0 post was &quot;I wonder how Gemma 4 31B…"
+      "title": "CrowdGPT v2.6 - The collaborative LLM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
+      "updated": "2026-10-31T18:57:36+00:00",
+      "summary": "For those who saw the original post , a week ago, I&#39;m glad to announce CrowdGPT v2 (more precisely v2.6), a massive update to the original CrowdGPT project :D (scroll down to see what&#39;s new) For the newcomers: CrowdGPT is a project aiming to…"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
-      "updated": "2026-10-30T15:00:55+00:00",
-      "summary": "https://preview.redd.it/88eb2wo0dmyh1.png?width=3840&amp;format=png&amp;auto=webp&amp;s=519c7438716cc55e5527ad18ca550c6e3555a50f Hi r/LocalLLaMA ! We’re MOSS , the team behind the MOSS family of models for speech, audio, images, and video. Some of y…"
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
+      "updated": "2026-11-01T08:24:18+00:00",
+      "summary": "&#32; submitted by &#32; /u/PferdOne [link] &#32; [comments]"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "Copium Prediction: Google and other major labs will drop new local models over the next few days so they can lead on benchmarks until Qwen 4 sweeps them next week.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjigxg/copium_prediction_google_and_other_major_labs/",
-      "updated": "2026-10-30T15:29:46+00:00",
-      "summary": "We saw this earlier when Gemma 4 dropped just a few days before a previous Qwen release. I feel like a few other labs did the same. Everybody wants that moment in the spotlight where they can lead the benchmarks for at least a day or two before the …"
+      "title": "\"Spent a lot on my rig but I can only run Gemma 4\"",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
+      "updated": "2026-10-31T15:22:08+00:00",
+      "summary": "&quot;The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However,…"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "Do you have any opinions that generally go against /r/LocalLLaMa's hivemind?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjltn3/do_you_have_any_opinions_that_generally_go/",
-      "updated": "2026-10-30T17:32:42+00:00",
-      "summary": "I&#39;m finding myself at odds with the vibes of the community here (and the open-weight/self-hosted community in general) when it comes to LLM&#39;s - be it on Reddit, X, Bluesky, wherever - I think some folks are getting carried away. Mine persona…"
+      "title": "Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/",
+      "updated": "2026-10-31T18:06:52+00:00",
+      "summary": "In my last thread on Betelgeuse ( bel-cli / bel-server ), the main pushback in the comments was: &quot;Okay cool, 22 tok/s on IQ2_XS , but 2-bit is too low—what happens on an actual 4-bit quant like IQ4_XS where the experts are almost 2x larger?&quo…"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "So uh...where are we on uncensored / NSFW audio models?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjn911/so_uhwhere_are_we_on_uncensored_nsfw_audio_models/",
-      "updated": "2026-10-30T18:25:48+00:00",
-      "summary": "IIRC there was a guy working on this a year or so ago but it didn&#39;t seem to go anywhere. Meanwhile there&#39;s a new Gemma-4-Max-Fursona-UwU-9000 every day. Is there no interest or is there just a lack of resources / knowledge? &#32; submitted b…"
+      "title": "Just finished my humble MoE-Centric Workstation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
+      "updated": "2026-10-31T13:54:27+00:00",
+      "summary": "CPU: AMD EPYC 7452 (8 memory channels) Motherboard: Gigabyte MZ32 GPU: Radeon AI PRO R9700 (32GB) RAM: 256GB DDR4 (16×16GB). Not exactly a “budget” build, but it came in at roughly half the price of a DGX Spark. Got it up and running just in time fo…"
     },
     {
       "subreddit": "vibecoding",
-      "title": "I coded terminal manager for ADHD brains. 100% Opensource.",
-      "url": "https://www.reddit.com/r/vibecoding/comments/1xjck52/i_coded_terminal_manager_for_adhd_brains_100/",
-      "updated": "2026-10-30T11:16:13+00:00",
-      "summary": "Hey everyone! Hope I don’t get roasted for this 😅 I’m here with a fun little intro video. My goal is simple: build something genuinely useful for everyone.I shared this on r/ClaudeCode last week and got some amazing feedback 300K views, hopefully so…"
+      "title": "Don't try to use REA with Claude.",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xk7ph6/dont_try_to_use_rea_with_claude/",
+      "updated": "2026-10-31T11:22:44+00:00",
+      "summary": "https://preview.redd.it/0v6wqiwvesyh1.png?width=607&amp;format=png&amp;auto=webp&amp;s=5cc2a54b027b63c1edc952b6b3d1c6a7fee39ccf I was lucky on my end. But don’t try using Opus 5.5 or Claude in general with REA or any type of MCP for reverse engineer…"
     },
     {
       "subreddit": "vibecoding",
-      "title": "I missed how easy VB6 made small programs, so I built a clone that runs on Mac, Windows and Linux",
-      "url": "https://www.reddit.com/r/vibecoding/comments/1xjm1vy/i_missed_how_easy_vb6_made_small_programs_so_i/",
-      "updated": "2026-10-30T17:41:12+00:00",
-      "summary": "Drag a button onto a form, double click it, write two lines, press F5. That was VB6, and I&#39;ve never really found anything that replaced that feeling for small throwaway programs. So I made VibeBasic. It has the Windows 98 look, a form designer, …"
+      "title": "I am about to prove \"AI dev\" haters wrong",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xkj0dk/i_am_about_to_prove_ai_dev_haters_wrong/",
+      "updated": "2026-10-31T19:25:19+00:00",
+      "summary": "EDIT: Thank you so much for all the comments and constructive criticism! I see that my provocative title worked to start discussion which was the target but my intention was not to sound arrogant or over-confident. I will be happy to share the demo …"
     },
     {
       "subreddit": "vibecoding",
-      "title": "I found a way to save on my electric bill.",
-      "url": "https://www.reddit.com/r/vibecoding/comments/1xjc7s5/i_found_a_way_to_save_on_my_electric_bill/",
-      "updated": "2026-10-30T10:57:40+00:00",
-      "summary": "The bulb is off. The light is pure code. A WebGL shader paints it in real time, while MediaPipe finds your hands and body so the glow lands where it should. I first tried training a model on the bulb, but clear glass is really hard to track, so I st…"
+      "title": "I made a painting app - Atelier",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xkccb0/i_made_a_painting_app_atelier/",
+      "updated": "2026-10-31T14:57:19+00:00",
+      "summary": "A digital painting app to simulate painting IRL &#32; submitted by &#32; /u/Creative_Bunny [link] &#32; [comments]"
     },
     {
       "subreddit": "vibecoding",
-      "title": "A friend asked me to make this: Stephen Hawking’s Pro Skater",
-      "url": "https://www.reddit.com/r/vibecoding/comments/1xjh8a3/a_friend_asked_me_to_make_this_stephen_hawkings/",
-      "updated": "2026-10-30T14:42:07+00:00",
-      "summary": "Tools/projects used: Claude Code Comfy UI with H3 Minimax Ref2va (used as image gen to get an A pose of Stephen) Meshy https://github.com/LANCommander/TonyWasAProSkater This took a about 40 minutes of focused effort, and 2 hours total. Edit: Github …"
+      "title": "Anthropic just scammed me",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xkaw3d/anthropic_just_scammed_me/",
+      "updated": "2026-10-31T13:56:47+00:00",
+      "summary": "https://preview.redd.it/rsdnqc0g6tyh1.png?width=863&amp;format=png&amp;auto=webp&amp;s=8707748e4ba74732f22536acbc1dcb793afb7e40 Basically, I paid for my plan and a day later they dropped me down to Free. The support is a powerless bot and the whole …"
     },
     {
       "subreddit": "vibecoding",
-      "title": "Made a new character selection screen for my RPG with Claude Code",
-      "url": "https://www.reddit.com/r/vibecoding/comments/1xjcw5t/made_a_new_character_selection_screen_for_my_rpg/",
-      "updated": "2026-10-30T11:33:26+00:00",
-      "summary": "I’ve been building a solo RPG in which you can play D&amp;D sessions and wanted a faster way for players to get into an adventure. This is the new character selection screen. I use Claude Code and Codex to help build the game. For this screen, the d…"
+      "title": "This is the Wild West..",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xkljsp/this_is_the_wild_west/",
+      "updated": "2026-10-31T21:12:58+00:00",
+      "summary": "I&#39;ve been amazed lately at what people are accomplishing with vibe coding. The break throughs with TV debloating is awesome but after the PS5 cracks happened, it got me thinking.. how far off are we from being able to hold the figurative keys to…"
     },
     {
       "subreddit": "vibecoding",
-      "title": "I made a small horror game in 52 hours. All 150 3D models cost about $27 in Tripo credits.",
-      "url": "https://www.reddit.com/r/vibecoding/comments/1xjh65y/i_made_a_small_horror_game_in_52_hours_all_150_3d/",
-      "updated": "2026-10-30T14:39:46+00:00",
-      "summary": "It&#39;s Halloween night. Your daughter runs ahead to a house with a bowl on the porch and a sign: TAKE ONE. You look at your phone for two seconds. When you look up, she and the dog are gone, and the house says STAY OUT. So you go in. It&#39;s your…"
+      "title": "Mr. Bones - a silly Halloween game you can play for a couple min. 👻",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xkgnw9/mr_bones_a_silly_halloween_game_you_can_play_for/",
+      "updated": "2026-10-31T17:50:57+00:00",
+      "summary": "&#32; submitted by &#32; /u/MightyBig-Dev [link] &#32; [comments]"
     },
     {
       "subreddit": "vibecoding",
-      "title": "Thoughts on testing vibe coded work?",
-      "url": "https://www.reddit.com/r/vibecoding/comments/1xjpluf/thoughts_on_testing_vibe_coded_work/",
-      "updated": "2026-10-30T19:56:26+00:00",
-      "summary": "So, when vibe coding, I do this. Instead of asking Codex to build an entire app, I spend hours with ChatGPT planning the architecture, features, and requirements. We then break development into milestones with clear constraints, acceptance criteria,…"
+      "title": "Broke and unemployed so I made my own visual learning chess website.",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xkgnbl/broke_and_unemployed_so_i_made_my_own_visual/",
+      "updated": "2026-10-31T17:50:18+00:00",
+      "summary": "Been working on my chess app website for over a year now. Still vibing. Got some feedback last time I posted this, so figured I&#39;d explain a few things a bit better. The idea behind Chess Fish is to make chess analysis more visual. We try to put …"
     },
     {
       "subreddit": "vibecoding",
-      "title": "i paid $100 for a 15 min UX audit of my vibecoded site (3 Tips)",
-      "url": "https://www.reddit.com/r/vibecoding/comments/1xjcaib/i_paid_100_for_a_15_min_ux_audit_of_my_vibecoded/",
-      "updated": "2026-10-30T11:01:43+00:00",
-      "summary": "&quot;Do you mind if it looks vibecoded? Genuine question&quot; she led with this... i wasnt entirely surprised because, well.. it was. I&#39;m not an expert in these areas and although id spent a substantial amount of time working on the design sys…"
+      "title": "r/VibeCoding Q&A Daily Thread - Saturday, October 31, 2026",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1xk9oa1/rvibecoding_qa_daily_thread_saturday_october_31/",
+      "updated": "2026-10-31T13:03:22+00:00",
+      "summary": "Hey Vibe Coders! Here you can ask any questions about coding and LLM tech with or without vibes. This is especially for those of us who are new and just learned that AI can help them to create then things that they&#39;ve never been able to before. …"
     },
     {
       "subreddit": "ChatGPTCoding",
-      "title": "Best value AI subscription under 20$/200$ (updated for Artificial Analysis Intelligence Index v5.0)",
-      "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1xjoq1u/best_value_ai_subscription_under_20200_updated/",
-      "updated": "2026-10-30T19:22:14+00:00",
-      "summary": "&#32; submitted by &#32; /u/popiazaza [link] &#32; [comments]"
+      "title": "how are you guys stopping claude code from burning context on huge stack traces",
+      "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1xkf3js/how_are_you_guys_stopping_claude_code_from/",
+      "updated": "2026-10-31T16:48:35+00:00",
+      "summary": "watching claude code burn half my context window just looping over raw stderr and giant stack traces is getting painful been messing around with a tiny local cli script im calling dot for now that sits between the terminal and the agent. basically c…"
     },
     {
       "subreddit": "ChatGPTCoding",
-      "title": "What actually made you switch from Cursor, or what made you stay?",
-      "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1xjfjis/what_actually_made_you_switch_from_cursor_or_what/",
-      "updated": "2026-10-30T13:34:50+00:00",
-      "summary": "I&#39;ve been seeing quite a few discussions here and on r/cursor about people moving away from Cursor, mostly because of pricing and usage limits. I even came across a post where someone mentioned their monthly bill going from $200 to $600 for pret…"
+      "title": "I made a tool to run Codex and Claude Code tasks from one chat",
+      "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1xkuqu7/i_made_a_tool_to_run_codex_and_claude_code_tasks/",
+      "updated": "2026-11-01T05:10:39+00:00",
+      "summary": "Hey r/ChatGPTCoding , I wanted to share onethread, a small open-source tool I made. You talk to one agent, and many coding agents work behind it, each in its own git worktree. It runs Codex as well as Claude Code, on your Mac, and nothing merges unt…"
     },
     {
       "subreddit": "ChatGPTCoding",
-      "title": "Running coding agents in parallel: how do you stop them colliding and filling your disk?",
-      "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1xjf5zb/running_coding_agents_in_parallel_how_do_you_stop/",
-      "updated": "2026-10-30T13:18:45+00:00",
-      "summary": "I run a few Codex workers on my Mac at the same time. The first problems weren&#39;t bad code. They were the agents stepping on each other and on my machine. What people have told me, and what I changed: Shared state is the real failure. One person …"
+      "title": "How does AI genuinely work?",
+      "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1xk8v5z/how_does_ai_genuinely_work/",
+      "updated": "2026-10-31T12:24:11+00:00",
+      "summary": "So, i have been using AI to perform lots of my daily tasks like coding but I am seriously not getting how the AI produces an outcome. I did few reasearch but I am just getting some mathematics and machine learning stuff as an answer nothing which is…"
+    },
+    {
+      "subreddit": "ChatGPTCoding",
+      "title": "Hey all, am I cooked?",
+      "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1xk7f2y/hey_all_am_i_cooked/",
+      "updated": "2026-10-31T11:06:40+00:00",
+      "summary": "Forgive the spelling, i’ve had a few drinks, I did hit a roadblock of ‘You&#39;ve hit your usage limit. Upgrade your plan or add credits to continue, or try again later.’ And was able to ‘reset once for free’ but not sure how to hamd my workflow rea…"
     }
   ],
   "github": [
     {
       "category": "MCP sunucuları",
-      "name": "qybaihe/bla",
-      "url": "https://github.com/qybaihe/bla",
-      "stars": 1565,
-      "created": "2026-10-25T05:25:45Z",
-      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "name": "muaaz9329/cheap-ag",
+      "url": "https://github.com/muaaz9329/cheap-ag",
+      "stars": 169,
+      "created": "2026-10-28T22:26:18Z",
+      "description": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code.",
       "language": "TypeScript"
     },
     {
       "category": "MCP sunucuları",
-      "name": "emanuele-em/kanzo",
-      "url": "https://github.com/emanuele-em/kanzo",
-      "stars": 198,
-      "created": "2026-10-25T11:14:03Z",
-      "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
-      "language": "Rust"
+      "name": "aa1143/NamiAgent",
+      "url": "https://github.com/aa1143/NamiAgent",
+      "stars": 114,
+      "created": "2026-10-30T11:03:30Z",
+      "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+      "language": "Python"
     },
     {
       "category": "MCP sunucuları",
-      "name": "boyuchengz/canvas-mcp",
-      "url": "https://github.com/boyuchengz/canvas-mcp",
-      "stars": 119,
-      "created": "2026-10-25T20:12:43Z",
-      "description": "Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS.",
-      "language": "JavaScript"
+      "name": "eduwxyz/tucano",
+      "url": "https://github.com/eduwxyz/tucano",
+      "stars": 96,
+      "created": "2026-10-28T04:27:38Z",
+      "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches th…",
+      "language": "TypeScript"
+    },
+    {
+      "category": "MCP sunucuları",
+      "name": "OtherworldMail/Tower-Events-resp-At-Sunrise",
+      "url": "https://github.com/OtherworldMail/Tower-Events-resp-At-Sunrise",
+      "stars": 90,
+      "created": "2026-10-26T07:21:58Z",
+      "description": "Rediscover seasonal Tower and Farm events in Destiny 2. Built on Sunrise 0.3.2.0.",
+      "language": "HTML"
+    },
+    {
+      "category": "MCP sunucuları",
+      "name": "UponPeak/windows-fine-tuner-resp",
+      "url": "https://github.com/UponPeak/windows-fine-tuner-resp",
+      "stars": 90,
+      "created": "2026-10-26T07:22:53Z",
+      "description": "Top 20 Windows 11 Junk & Startup Optimizer Tools 2026",
+      "language": "HTML"
     },
     {
       "category": "MCP sunucuları",
@@ -760,90 +806,63 @@
     },
     {
       "category": "MCP sunucuları",
-      "name": "AISEO-VirtualabDigital/mcp-video-editor",
-      "url": "https://github.com/AISEO-VirtualabDigital/mcp-video-editor",
-      "stars": 75,
-      "created": "2026-10-26T15:43:13Z",
-      "description": "Wag na kayo magbayad ng 5k PHP. Ito na — libre. MCP server for CapCut + OpenCut from Cursor, Claude, Codex, Antigravity, OpenCode, KiloCode, Qwen Code and ZCode. 59 tools: timeline editing, effects catalog, voiceover (O…",
-      "language": "TypeScript"
-    },
-    {
-      "category": "MCP sunucuları",
       "name": "Deibler/openskycam",
       "url": "https://github.com/Deibler/openskycam",
-      "stars": 74,
+      "stars": 76,
       "created": "2026-10-26T01:53:40Z",
       "description": "Record a sky camera around the clock, keep the footage on your own disk, and find what flew past.",
       "language": "TypeScript"
     },
     {
       "category": "MCP sunucuları",
-      "name": "codician-team/diffinery",
-      "url": "https://github.com/codician-team/diffinery",
-      "stars": 74,
-      "created": "2026-10-25T19:10:20Z",
-      "description": "Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloudflare account: git hosting, pull requests, code review and drop-in GitHub Actions YAML on Workers, Durable Objects, R2 and Contai…",
+      "name": "AISEO-VirtualabDigital/mcp-video-editor",
+      "url": "https://github.com/AISEO-VirtualabDigital/mcp-video-editor",
+      "stars": 76,
+      "created": "2026-10-26T15:43:13Z",
+      "description": "Wag na kayo magbayad ng 5k PHP. Ito na — libre. MCP server for CapCut + OpenCut from Cursor, Claude, Codex, Antigravity, OpenCode, KiloCode, Qwen Code and ZCode. 59 tools: timeline editing, effects catalog, voiceover (O…",
       "language": "TypeScript"
     },
     {
-      "category": "MCP sunucuları",
-      "name": "Sheernox/cedr",
-      "url": "https://github.com/Sheernox/cedr",
-      "stars": 59,
-      "created": "2026-10-29T17:13:23Z",
-      "description": "Developer tools for humans and agents: route work to the right AI coding agent, merge multi-vendor reviews into one gate, and pin the skills and MCP servers agents load.",
-      "language": "Rust"
+      "category": "Claude Code eklenti/skill",
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "stars": 1929,
+      "created": "2026-10-30T06:43:25Z",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "language": "JavaScript"
     },
     {
       "category": "Claude Code eklenti/skill",
       "name": "andyhuo520/digital-human-koubo",
       "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "stars": 1567,
+      "stars": 1610,
       "created": "2026-10-26T04:34:09Z",
       "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "language": "TypeScript"
     },
     {
       "category": "Claude Code eklenti/skill",
-      "name": "DenisSergeevitch/ex-ussr-kinship-research",
-      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-      "stars": 1363,
-      "created": "2026-10-25T10:05:56Z",
-      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "language": "Python"
-    },
-    {
-      "category": "Claude Code eklenti/skill",
-      "name": "ZiChuanLan/agent-purge",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "stars": 924,
-      "created": "2026-10-25T06:06:02Z",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "name": "elvarofficial/teardown",
+      "url": "https://github.com/elvarofficial/teardown",
+      "stars": 667,
+      "created": "2026-10-30T09:29:01Z",
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
       "language": "JavaScript"
     },
     {
       "category": "Claude Code eklenti/skill",
-      "name": "patch-gg/pixelfx",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "stars": 577,
-      "created": "2026-10-30T06:43:25Z",
-      "description": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "language": "JavaScript"
-    },
-    {
-      "category": "Claude Code eklenti/skill",
-      "name": "mochiiwuff/capri-desktop",
-      "url": "https://github.com/mochiiwuff/capri-desktop",
-      "stars": 444,
-      "created": "2026-10-25T09:07:06Z",
-      "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
+      "name": "NiazMorshed2007/reanimate",
+      "url": "https://github.com/NiazMorshed2007/reanimate",
+      "stars": 579,
+      "created": "2026-10-29T06:20:59Z",
+      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
       "language": "JavaScript"
     },
     {
       "category": "Claude Code eklenti/skill",
       "name": "boardshogunfluctuate/Capri-AI",
       "url": "https://github.com/boardshogunfluctuate/Capri-AI",
-      "stars": 286,
+      "stars": 518,
       "created": "2026-10-30T22:03:48Z",
       "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT …",
       "language": ""
@@ -852,34 +871,52 @@
       "category": "Claude Code eklenti/skill",
       "name": "jmanico/grim-prompter",
       "url": "https://github.com/jmanico/grim-prompter",
-      "stars": 278,
+      "stars": 320,
       "created": "2026-10-28T12:09:26Z",
       "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
       "language": ""
     },
     {
       "category": "Claude Code eklenti/skill",
-      "name": "NiazMorshed2007/reanimate",
-      "url": "https://github.com/NiazMorshed2007/reanimate",
-      "stars": 238,
-      "created": "2026-10-29T06:20:59Z",
-      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "name": "andyhuo520/vibe-knowledge",
+      "url": "https://github.com/andyhuo520/vibe-knowledge",
+      "stars": 221,
+      "created": "2026-10-28T09:37:45Z",
+      "description": "Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）",
       "language": "JavaScript"
+    },
+    {
+      "category": "Claude Code eklenti/skill",
+      "name": "win4r/video-director",
+      "url": "https://github.com/win4r/video-director",
+      "stars": 216,
+      "created": "2026-10-28T03:35:27Z",
+      "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
+      "language": "Python"
     },
     {
       "category": "AI agent",
       "name": "N1nEmAn/sapper-v2",
       "url": "https://github.com/N1nEmAn/sapper-v2",
-      "stars": 264,
+      "stars": 394,
       "created": "2026-10-30T15:12:35Z",
       "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Crea…",
       "language": "Python"
     },
     {
       "category": "AI agent",
+      "name": "wanghao-SunSky/cs329z-chinese",
+      "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
+      "stars": 302,
+      "created": "2026-10-28T18:18:24Z",
+      "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+      "language": "HTML"
+    },
+    {
+      "category": "AI agent",
       "name": "davemessew/AgentFlux",
       "url": "https://github.com/davemessew/AgentFlux",
-      "stars": 235,
+      "stars": 236,
       "created": "2026-10-27T14:43:07Z",
       "description": "Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server.",
       "language": "TypeScript"
@@ -888,25 +925,16 @@
       "category": "AI agent",
       "name": "jefferysha0627/agent-office-3d",
       "url": "https://github.com/jefferysha0627/agent-office-3d",
-      "stars": 124,
+      "stars": 125,
       "created": "2026-10-29T11:55:41Z",
       "description": "A low-poly 3D office that shows your AI coding agents' live status — idle agents sneak off to play Minecraft (no tokens used).",
       "language": "JavaScript"
     },
     {
       "category": "AI agent",
-      "name": "wanghao-SunSky/cs329z-chinese",
-      "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
-      "stars": 110,
-      "created": "2026-10-28T18:18:24Z",
-      "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
-      "language": "HTML"
-    },
-    {
-      "category": "AI agent",
       "name": "sirioberati/YouTube-AI-Motion-Graphics",
       "url": "https://github.com/sirioberati/YouTube-AI-Motion-Graphics",
-      "stars": 106,
+      "stars": 115,
       "created": "2026-10-27T17:35:05Z",
       "description": "AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with Whisper, exported frame by frame with Chrome + FFmpeg. Every promp…",
       "language": "HTML"
@@ -914,102 +942,74 @@
   ],
   "hackernews": [
     {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "discussion": "https://news.ycombinator.com/item?id=50300683",
-      "points": 891,
-      "comments": 530
-    },
-    {
       "title": "Backdoors in official Claude Code extensions",
       "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
       "discussion": "https://news.ycombinator.com/item?id=50302334",
-      "points": 655,
+      "points": 658,
       "comments": 17
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "discussion": "https://news.ycombinator.com/item?id=50296486",
-      "points": 402,
-      "comments": 166
-    },
-    {
-      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "discussion": "https://news.ycombinator.com/item?id=50301983",
-      "points": 399,
-      "comments": 1
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "discussion": "https://news.ycombinator.com/item?id=50314699",
+      "points": 333,
+      "comments": 165
     },
     {
       "title": "OpenAI raises less than half of $30B target",
       "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
       "discussion": "https://news.ycombinator.com/item?id=50312922",
-      "points": 151,
-      "comments": 141
+      "points": 184,
+      "comments": 192
     },
     {
-      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-      "url": "https://fig.blue/posts/duet-is-the-future/",
-      "discussion": "https://news.ycombinator.com/item?id=50292727",
-      "points": 124,
-      "comments": 139
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "discussion": "https://news.ycombinator.com/item?id=50320255",
+      "points": 149,
+      "comments": 95
     },
     {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "discussion": "https://news.ycombinator.com/item?id=50291116",
-      "points": 76,
-      "comments": 33
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "discussion": "https://news.ycombinator.com/item?id=50320588",
+      "points": 140,
+      "comments": 87
     },
     {
-      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
-      "discussion": "https://news.ycombinator.com/item?id=50294486",
-      "points": 50,
-      "comments": 38
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "discussion": "https://news.ycombinator.com/item?id=50315987",
+      "points": 71,
+      "comments": 42
     },
     {
       "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
       "url": "https://sketch.wakeshift.ai/games/q5ucru",
       "discussion": "https://news.ycombinator.com/item?id=50305218",
-      "points": 32,
-      "comments": 10
+      "points": 35,
+      "comments": 11
+    },
+    {
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "discussion": "https://news.ycombinator.com/item?id=50316635",
+      "points": 29,
+      "comments": 16
     },
     {
       "title": "OpenAI CEO Sam Altman Says You Having DRAM Instead of Data Centers Is \"Terrible\"",
       "url": "https://www.thegamer.com/openai-ceo-sam-altman-consumers-having-dram-terrible/",
       "discussion": "https://news.ycombinator.com/item?id=50306361",
-      "points": 24,
-      "comments": 8
-    },
-    {
-      "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "discussion": "https://news.ycombinator.com/item?id=50293979",
-      "points": 21,
-      "comments": 6
-    },
-    {
-      "title": "Trojanized Claude Code Extension Plants an SSH Backdoor",
-      "url": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor",
-      "discussion": "https://news.ycombinator.com/item?id=50300112",
-      "points": 19,
-      "comments": 2
-    },
-    {
-      "title": "OpenAI: We are doubling all usage limits for all Pro 100/200/500 tiers",
-      "url": "https://twitter.com/thsottiaux/status/2115850175868727621",
-      "discussion": "https://news.ycombinator.com/item?id=50292524",
-      "points": 16,
-      "comments": 1
+      "points": 27,
+      "comments": 9
     },
     {
       "title": "Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System",
       "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "discussion": "https://news.ycombinator.com/item?id=50309730",
       "points": 16,
-      "comments": 1
+      "comments": 2
     }
   ],
   "errors": []
